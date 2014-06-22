@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Guia de Serviços SP</string>
+    <string name="splashscreen_title">Guia de\nServiços</string>
+    <string name="sp">SP</string>
+    <string name="about">Sobre</string>
+
+</resources>

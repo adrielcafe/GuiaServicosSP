@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twotoasters.jazzylistview.JazzyListView
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+ 	android:id="@android:id/list"
+ 	android:layout_width="match_parent"
+ 	android:layout_height="match_parent"
+ 	app:effect="flip"
+    app:only_animate_new_items="true"
+    app:only_animate_fling="false"
+    app:max_velocity="0"
+	tools:context="com.adrielcafe.guiaservicossp.MainActivity" />
