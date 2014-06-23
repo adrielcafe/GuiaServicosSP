@@ -1,16 +1,15 @@
 package com.adrielcafe.guiaservicossp;
 
-import com.adrielcafe.guiaservicossp.model.Service;
-
 import android.app.Activity;
 import android.content.Intent;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.text.method.LinkMovementMethod;
-import android.text.util.Linkify;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.TextView;
+
+import com.adrielcafe.guiaservicossp.model.Service;
 
 public class ServiceActivity extends Activity {
 

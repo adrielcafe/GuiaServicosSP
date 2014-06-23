@@ -3,10 +3,7 @@ package com.adrielcafe.guiaservicossp;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
-import java.util.TreeMap;
 
 import android.app.ListActivity;
 import android.content.Intent;
@@ -15,7 +12,6 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
 import com.adrielcafe.guiaservicossp.model.Category;

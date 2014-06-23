@@ -1,10 +1,6 @@
 package com.adrielcafe.guiaservicossp;
 
 import java.util.ArrayList;
-import java.util.Collections;
-
-import com.adrielcafe.guiaservicossp.model.Category;
-import com.adrielcafe.guiaservicossp.model.Service;
 
 import android.app.ListActivity;
 import android.content.Intent;
@@ -12,8 +8,10 @@ import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.ArrayAdapter;
 import android.widget.ListView;
+
+import com.adrielcafe.guiaservicossp.model.Category;
+import com.adrielcafe.guiaservicossp.model.Service;
 
 public class CategoryActivity extends ListActivity {
 
