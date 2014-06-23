@@ -1,57 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
+<ScrollView
 	xmlns:android="http://schemas.android.com/apk/res/android"
 	xmlns:tools="http://schemas.android.com/tools"
- 	android:layout_width="match_parent"
- 	android:layout_height="match_parent"
-    android:padding="10dp"
- 	android:orientation="vertical"
-	tools:context="com.adrielcafe.guiaservicossp.ServiceActivity" >
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
 
-    <TextView
-        android:id="@+id/title"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:textStyle="bold"
-        android:textColor="@color/red"
-        android:textAppearance="?android:attr/textAppearanceLarge" />
-
-    <TextView
-        android:id="@+id/description"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="10dp"
-        android:layout_marginBottom="10dp"
-        android:textAppearance="?android:attr/textAppearanceMedium" />
-
-    <TextView
-        android:id="@+id/url"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="10dp"
-        android:gravity="center_vertical"
-        android:singleLine="true"
-        android:textAppearance="?android:attr/textAppearanceMedium"
-        android:drawableLeft="@drawable/ic_url" />
-    
-    <TextView
-        android:id="@+id/email"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="10dp"
-        android:gravity="center_vertical"
-        android:singleLine="true"
-        android:textAppearance="?android:attr/textAppearanceMedium"
-        android:drawableLeft="@drawable/ic_email" />
-    
-    <TextView
-        android:id="@+id/phone"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="10dp"
-        android:gravity="center_vertical"
-        android:singleLine="true"
-        android:textAppearance="?android:attr/textAppearanceMedium"
-        android:drawableLeft="@drawable/ic_phone" />
-       
-</LinearLayout>
+    <LinearLayout
+	 	android:layout_width="match_parent"
+	 	android:layout_height="match_parent"
+	    android:padding="10dp"
+	 	android:orientation="vertical"
+		tools:context="com.adrielcafe.guiaservicossp.ServiceActivity" >
+	
+	    <TextView
+	        android:id="@+id/title"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:textStyle="bold"
+	        android:textColor="@color/red"
+	        android:textAppearance="?android:attr/textAppearanceLarge" />
+	
+	    <TextView
+	        android:id="@+id/description"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="10dp"
+	        android:layout_marginBottom="10dp"
+	        android:textAppearance="?android:attr/textAppearanceMedium" />
+	
+	    <TextView
+	        android:id="@+id/url"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="10dp"
+	        android:gravity="center_vertical"
+	        android:autoLink="web"
+	        android:singleLine="true"
+	        android:textAppearance="?android:attr/textAppearanceMedium"
+	        android:drawableLeft="@drawable/ic_url" />
+	    
+	    <TextView
+	        android:id="@+id/email"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="10dp"
+	        android:gravity="center_vertical"
+	        android:autoLink="email"
+	        android:singleLine="true"
+	        android:textAppearance="?android:attr/textAppearanceMedium"
+	        android:drawableLeft="@drawable/ic_email" />
+	    
+	    <TextView
+	        android:id="@+id/phone"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="10dp"
+	        android:gravity="center_vertical"
+	        android:autoLink="phone"
+	        android:textAppearance="?android:attr/textAppearanceMedium"
+	        android:drawableLeft="@drawable/ic_phone" />
+	       
+	</LinearLayout>
+</ScrollView>

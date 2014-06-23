@@ -5,14 +5,17 @@ import java.io.InputStream;
 import android.content.Context;
 import android.text.Html;
 
+import com.github.slugify.Slugify;
 import com.google.gson.Gson;
 
 public class Util {
 	public static final String EXTRA_TITLE = "title";
 	public static final String EXTRA_DB = "db";
 	public static final String EXTRA_SERVICE = "service";
-		
+	public static final String EXTRA_CATEGORY = "category";
+
 	public static final Gson GSON = new Gson();
+	public static final Slugify SLUG = new Slugify(true);
 	public static final String ABOUT_MESSAGE = "<b>Guia de Serviços SP</b> é um software livre não-oficial, seu código fonte está disponível no <a href='https://github.com/adrielcafe/GuiaServicosSP'>GitHub</a>."
 											 + "<br><br>Desenvolvido por:<br>Adriel Café (ac@adrielcafe.com)";
 	
@@ -24,7 +27,7 @@ public class Util {
             byte[] buffer = new byte[size];
             is.read(buffer);
             is.close();
-            json = new String(buffer, "UTF-8");
+            json = new String(buffer, "ISO-8859-1");
         } catch (Exception ex) {
             return null;
         }

@@ -1,4 +1,4 @@
-package com.adrielcafe.guiaservicossp;
+package com.adrielcafe.guiaservicossp.model;
 
 import java.io.Serializable;
 

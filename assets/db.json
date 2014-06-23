@@ -1,0 +1,1673 @@
+[
+    {
+        "title": "Administração pública",
+        "services": [
+            {
+                "title": "e-negociospublicos - Pesquisa de Contratações do Governo do Estado - Imprensa Oficial",
+                "description": "Este serviço é destinado à divulgação, via Internet, das licitações, das dispensas e das inexigibilidades, bem como dos editais e minutas de contratos, referentes a todos os negócios públicos realizados no Estado. Concorrências, concursos, convites, dispensas, inexigibilidades, leilões, pregões e tomadas de preços estão registrados passo a passo, desde os editais de aberturas até os seus devidos encerramentos.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=1009",
+                "email": "",
+                "phone": "0800 01234 01"
+            },
+            {
+                "title": "Consultoria - Fundap",
+                "description": "Consultoria nas áreas de gerenciamento, capacitação de recursos humanos, avaliação de ações governamentais, gestão de patrimônio imobiliário e assistência técnica na solução de problemas de administração de recursos humanos, finanças e orçamento, materiais, estrutura e comportamento organizacional",
+                "url": "",
+                "email": "caf@fundap.sp.gov.br",
+                "phone": "011- 30665660"
+            },
+            {
+                "title": "Consulta e Regulamento de Cadastro de Fornecedores - Fundação para o Desenvolvimento da Educação",
+                "description": "Regulamento de cadastro e procedimentos para as áreas de obras, serviços de engenharia, serviços técnicos e profissionais, pessoa física, serviços não especializados e fornecimento de materiais e/ou equipamentos; consulta de cadastro de fornecedores.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=2026",
+                "email": "",
+                "phone": ""
+            },
+            {
+                "title": "Perfil da Administração Pública Paulista - Fundap",
+                "description": "Permite acesso, on-line, a informações sobre a estrutura e atribuições dos órgãos e entidades do executivo paulista, bem como suas formas de vinculação com o núcleo do governo.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=2136",
+                "email": "smetring@fundap.sp.gov.br",
+                "phone": "(11) 3066-5483"
+            },
+            {
+                "title": "Informações sobre Parcerias Público-Privadas - Secretaria de Planejamento e Desenvolvimento Regional",
+                "description": "Disseminação de informações sobre conceitos e metodologias próprios dos contratos de Parcerias Público-Privadas de interesse do governo do Estado de São Paulo, realização de apresentações e palestras em eventos externos.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=302964",
+                "email": "pbenvenuto@planejamento.sp.gov.br",
+                "phone": "(11) 3320 4525"
+            },
+            {
+                "title": "Escreve Cartas – Programa Poupatempo",
+                "description": "Projeto social desenvolvido nas unidades Guarulhos, Osasco, São Bernardo do Campo, Itaquera e Santo Amaro, tendo os correios como parceiro em sua operacionalização, mediante a participação de voluntários, que desenvolvem atividades de escrevedores de cartas, com o objetivo de auxiliar pessoas que têm dificuldades em se comunicar através da escrita.",
+                "url": "",
+                "email": "poupatempo@poupatempo.sp.gov.br",
+                "phone": "0800 7723633"
+            },
+            {
+                "title": "e-negocios.informa - Serviço de Boletim Eletrônico das Contratações do Governo do Estado - Imprensa Oficial",
+                "description": "Serviço de Boletim Eletrônico, enviado por e-mail a usuários, contendo informações sobre compras e contratações do Governo do Estado de São Paulo. Serviço pós-pago cobrado mensalmente.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303185",
+                "email": "",
+                "phone": "0800 01234 01"
+            },
+            {
+                "title": "Certificação Digital - Imprensa Oficial",
+                "description": "A Imprensa Oficial é a Autoridade Certificadora Oficial do Governo do Estado de São Paulo responsável por emitir Certificados Digitais ICP-Brasil e é a única a atender os requisitos da norma internacional de qualidade ISO 9001:2008, nos seus processos de certificação digital. A empresa gera produtos e serviços de certificação digital para os poderes executivo, legislativo e judiciário, incluindo todas as esferas da administração pública, direta e indireta, nos âmbitos federal, estadual e municipal.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303537",
+                "email": "",
+                "phone": "0800 01234 01"
+            },
+            {
+                "title": "Acesso à Legislação do Estado de São Paulo - Assembleia Legislativa do Estado de São Paulo",
+                "description": "Consultas à legislação estadual, estudos e documentos normativos da ALESP. Inclui Leis Ordinárias (desde 1891) e outras (desde 1938), com acesso às íntegras dos textos a partir de 1972, atualizadas diariamente.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303643",
+                "email": "dpj-diretoria@al.sp.gov.br",
+                "phone": ""
+            },
+            {
+                "title": "Consulta às Constituições Estadual e Federal – Assembleia Legislativa do Estado de São Paulo",
+                "description": "Permite a consulta das constituições do Estado de São Paulo, desde 1890, incluindo uma versão atual da constituição que permite estabelecer correlação com a Constituição Federal e a XII Consolidação do Regimento Interno da Assembleia Legislativa do Estado de São Paulo, além possuir anotações de Leis Federais, Estaduais e Ações Diretas de Inconstitucionalidade. Disponibiliza links para a Constituição Federal e de outros estados do Brasil.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303718",
+                "email": "pesquisajuridica@al.sp.gov.br",
+                "phone": ""
+            },
+            {
+                "title": "Acesso ao Andamento de Trabalhos Relativos ao Orçamento do Estado de São Paulo – Assembleia Legislativa do Estado de São Paulo",
+                "description": "Permite o acesso aos detalhes das proposituras ao Orçamento por parte dos Senhores Deputados, bem como o acompanhamento de audiências públicas, promovidas pela Comissão de Finanças e Orçamento da Assembleia Legislativa, no período anterior à votação no plenário.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303720",
+                "email": "cfo@al.sp.gov.br",
+                "phone": ""
+            },
+            {
+                "title": "Cursos Temáticos – Instituto do Legislativo Paulista - Assembleia Legislativa do Estado de São Paulo",
+                "description": "Oferecimento de cursos de políticas públicas e legislação voltados ao público externo, como Extensão em Direito Constitucional Estadual, Ciência Política, Processo Legislativo, Gestão Pública, Administração Legislativa etc",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303721",
+                "email": "instituto@al.sp.gov.br",
+                "phone": "(11) 3051-2306\n(11) 3886-6288"
+            },
+            {
+                "title": "Informações sobre Atividades das Comissões Permanentes e CPIs – Assembleia Legislativa do Estado de São Paulo",
+                "description": "Disponibilização das seguintes informações:\n- Relação e descrição das atividades das Comissões Permanentes e Comissões Parlamentares de Inquérito e seus respectivos membros\n- Atos de nomeação de Deputados\n- Relatórios Anuais\n- Pesquisas em Atas de Comissões\n- Informações sobre a participação no Programa Assembleia Popular, da TV Assembleia",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303723",
+                "email": "deco@al.sp.gov.br",
+                "phone": "(11) 3886-6363"
+            },
+            {
+                "title": "Informações Voltadas à Comunidade – Assembleia Legislativa do Estado de São Paulo",
+                "description": "Disponibilização das seguintes informações direcionadas a grupos variados da comunidade:\n- Legislação, Composição da Diretoria, Comissões, Eventos e Atividades do Conselho Parlamentar de Comunidades de Raízes e Culturas Estrangeiras;\n- Informações sobre o Conpaz – Conselho Parlamentar pela Cultura da Paz;\n- Acesso a agenda de eventos voltados a comunidades - com a finalidade de aproximar o Poder Legislativo nos seus níveis federal, estadual e municipal e e promover maior transparência e interação desse Poder com a sociedade;\n- Informações sobre visitas monitoradas.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303725",
+                "email": "comsocial@al.sp.gov.br",
+                "phone": "(11) 3886-6630\n(11) 3886-6628"
+            },
+            {
+                "title": "Agenda dos Eventos e Reuniões do Parlamento Paulista - Assembleia Legislativa do Estado de São Paulo",
+                "description": "Disponibiliza informações sobre eventos, horários e locais, com consulta para agenda do dia ou o dia solicitado pelo interessado.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303727",
+                "email": "",
+                "phone": ""
+            },
+            {
+                "title": "Informações sobre os Trabalhos do Legislativo Paulista - Assembleia Legislativa do Estado de São Paulo",
+                "description": "Informações sobre o andamento dos trabalhos do Legislativo, debates e votações. Notícia em tempo real.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303728",
+                "email": "",
+                "phone": ""
+            },
+            {
+                "title": "Avisos de Editais de Licitação – Secretaria de Planejamento e Desenvolvimento Regional",
+                "description": "Permite acesso a downloads de Editais de Licitação relativos a aquisições de bens e serviços, mediante cadastramento.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303826",
+                "email": "",
+                "phone": ""
+            },
+            {
+                "title": "Ouvidoria - São Paulo Previdência-SPPREV",
+                "description": "Canal de comunicação entre o cidadão e a SPPREV nas demandas de reclamação, solicitação de informação, sugestão e elogio, visando melhoria dos serviços, correção de erros e satisfação no atendimento ao usuário.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303908",
+                "email": "ouvidoria@spprev.sp.gov.br",
+                "phone": "(11) 3214-9000"
+            },
+            {
+                "title": "Credenciamento de Estabelecimentos - Emissor de Cupom Fiscal (ECF) - Secretaria da Fazenda",
+                "description": "Credenciamento de estabelecimentos interventores em Emissor de Cupom Fiscal, fabricante de Emissor de Cupom Fiscal ou lacre, desenvolvedores de aplicativos e serviços correlatos.",
+                "url": "",
+                "email": "",
+                "phone": "0800 17 01 10"
+            },
+            {
+                "title": "Credenciamento de Estabelecimentos Gráficos - Secretaria de Estado da Fazenda",
+                "description": "Credenciamento de estabelecimentos gráficos do Estado de São Paulo ou de outra Unidade da Federação e serviços correlatos, tendo em vista a confecção de impressos de documentos fiscais para contribuintes paulistas.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303928",
+                "email": "",
+                "phone": ""
+            },
+            {
+                "title": "Credenciamento para Emissão de Nota Fiscal Eletrônica - Secretaria de Estado da Fazenda",
+                "description": "Alteração da sistemática atual de emissão da nota fiscal em papel Modelo 1 ou 1A, por nota fiscal eletrônica com validade jurídica para todos os fins. Considera-se Nota Fiscal Eletrônica - NF-e - o documento emitido e armazenado eletronicamente por contribuinte credenciado pela Secretaria da Fazenda, de existência apenas digital, cuja validade jurídica é garantida pela assinatura digital do emitente e pela Autorização de Uso concedida pela Secretaria da Fazenda, com o intuito de documentar operações, prestações e outros eventos fiscais relativos ao imposto.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303931",
+                "email": "",
+                "phone": "0800-170110"
+            },
+            {
+                "title": "Solicitação de Regime Especial de ICMS - Secretaria da Fazenda",
+                "description": "Solicitação de inclusão em Regime Especial, no que diz respeito ao recolhimento de ICMS.",
+                "url": "",
+                "email": "",
+                "phone": ""
+            },
+            {
+                "title": "Serviço de Informações ao Cidadão - SIC - Departamento Regional de Saúde de Ribeirão Preto",
+                "description": "Serviço instituído pela Lei Nº 12.527, de 18 de novembro de 2011, e regulado pelo Decreto Estadual Nº 58.052, de 16 de maio de 2012, que possibilita a solicitação de acesso à informação existente nos órgãos públicos, salvo as que forem consideradas sigilosas, o que pode ocorrer em casos que sua divulgação ponha em risco a segurança do Estado ou em casos de informações que sejam de caráter pessoal.\nAs solicitações podem ocorrer por meio de e-mail (drs13-ouvidoria@saude.sp.gov.br), carta ou presencialmente (Av.Independencia, 4770 - Jardim João Rossi - CEP. 14026-160 - Ribeirão Preto-SP) e pelo E-SIC (http://www.sic.sp.gov.br/), que é um sistema via internet.\nO prazo para atendimento de uma solicitação de acesso à informação é de 20 dias corridos, prorrogáveis por mais 10 dias, quando justificável.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304401",
+                "email": "drs13-ouvidoria@saude.sp.gov.br",
+                "phone": ""
+            },
+            {
+                "title": "Serviço de Informações ao Cidadão - SIC - São Paulo Previdência - SPPREV",
+                "description": "Serviço instituído pela Lei Nº 12.527, de 18 de Novembro de 2011, e regulado pelo Decreto Estadual nº 58.052, de 16 de maio de 2012, que possibilita a solicitação de acesso à informação existentes nos órgãos públicos, salvo as que forem consideradas sigilosas, em que pode ocorrer  casos em que sua divulgação ponha em risco a segurança do Estado ou em casos de informações de caráter pessoal.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304402",
+                "email": "spprev@sic.sp.gov.br",
+                "phone": ""
+            },
+            {
+                "title": "Serviço de Informações ao Cidadão – SIC - Ipem/SP",
+                "description": "O Serviço de Informações ao Cidadão (SIC) é uma unidade de atendimento obrigatória em todos os órgãos públicos, conforme determina a Lei Federal nº 12.527, de 18 de novembro de 2011, regulamentada pelo Decreto Estadual nº 58.052, de 16 de maio de 2012. Sua finalidade é assegurar aos cidadãos o pleno acesso às informações públicas.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304403",
+                "email": "ouvidoria@ipem.sp.gov.br",
+                "phone": "(11) 3581-2030\n(11) 3581-2221\n(11) 3581-2037"
+            },
+            {
+                "title": "Serviço de Informações ao Cidadão - SIC - Ipesp",
+                "description": "Serviço instituído pela Lei Nº 12.527, de 18 de novembro de 2011, e regulado pelo Decreto Estadual Nº 58.052, de 16 de maio de 2012, que possibilita a solicitação de acesso à informação existente nos órgãos públicos, salvo as que forem consideradas sigilosas, o que pode ocorrer em casos que sua divulgação ponha em risco a segurança do Estado ou em casos de informações que sejam de caráter pessoal.\nAs solicitações podem ocorrer por meio de telefone, e-mail, carta, presencialmente e pelo E-SIC (http://www.sic.sp.gov.br/), que é um sistema via internet.\nO prazo para atendimento de uma solicitação de acesso à informação é de 20 dias corridos, prorrogáveis por mais 10 dias, quando justificável.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304405",
+                "email": "",
+                "phone": "3100-0220"
+            },
+            {
+                "title": "Serviço de Informações ao Cidadão – SIC - Itesp",
+                "description": "Serviço instituído pela Lei Nº 12.527, de 18 de novembro de 2011, e regulado pelo Decreto Estadual Nº 58.052, de 16 de maio de 2012, que possibilita a solicitação de acesso à informação existente nos órgãos públicos, salvo as que forem consideradas sigilosas, o que pode ocorrer em casos que sua divulgação ponha em risco a segurança do Estado ou em casos de informações que sejam de caráter pessoal.\nAs solicitações podem ocorrer por meio de telefone, e-mail, carta, presencialmente e pelo E-SIC (http://www.sic.sp.gov.br/), que é um sistema via internet.\nO prazo para atendimento de uma solicitação de acesso à informação é de 20 dias corridos, prorrogáveis por mais 10 dias, quando justificável.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304406",
+                "email": "itesp@sic.sp.gov.br",
+                "phone": "0800 7733173"
+            },
+            {
+                "title": "Serviço de Informações ao Cidadão - SIC - Ipen",
+                "description": "Serviço instituído pela Lei Nº 12.527, de 18 de novembro de 2011, e regulado pelo Decreto Estadual Nº 58.052, de 16 de maio de 2012, que possibilita a solicitação de acesso à informação existente nos órgãos públicos, salvo as que forem consideradas sigilosas, o que pode ocorrer em casos que sua divulgação ponha em risco a segurança do Estado ou em casos de informações que sejam de caráter pessoal.",
+                "url": "",
+                "email": "pergunta@ipen.br",
+                "phone": "(011) 3133-9092\n(011) 3133-9095\n(011) 3133 9133"
+            },
+            {
+                "title": "Serviço de Informação ao Cidadão - SIC - Secretaria da Agricultura e Abastecimento",
+                "description": "Serviço instituído pela Lei Nº 12.527, de 18 de novembro de 2011, e regulado pelo Decreto Estadual Nº 58.052, de 16 de maio de 2012, que possibilita a solicitação de acesso à informação existente nos órgãos públicos, salvo as que forem consideradas sigilosas, o que pode ocorrer em casos que sua divulgação ponha em risco a segurança do Estado ou em casos de informações que sejam de caráter pessoal.\nAs solicitações podem ocorrer por meio de telefone (11) 5067-0106, e-mail (através de acesso direto ao site), carta endereçada a esta Secretaria, presencialmente, e pelo E-SIC (http://www.sic.sp.gov.br/), que é um sistema via internet.\nO prazo para atendimento de uma solicitação de acesso à informação é de 20 dias corridos, prorrogáveis por mais 10 dias, quando justificável.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304408",
+                "email": "",
+                "phone": "(11) 5067-0106"
+            },
+            {
+                "title": "Serviço de Informações ao Cidadão - SIC - Cosesp",
+                "description": "Serviço instituído pela Lei Nº 12.527, de 18 de novembro de 2011, e regulado pelo Decreto Estadual Nº 58.052, de 16 de maio de 2012, que possibilita a solicitação de acesso à informação existente nos órgãos públicos, salvo as que forem consideradas sigilosas, o que pode ocorrer em casos que sua divulgação ponha em risco a segurança do Estado ou em casos de informações que sejam de caráter pessoal.\nAs solicitações podem ocorrer por meio do telefone (11) 3254-4823 ; e-mail: sic@cosespseguros.com .br ; por carta;  presencialmente, no endereço Rua Pamplona, 227 - 16º andar - São Paulo - SP - CEP 01405-902; e pelo E-SIC (http://www.sic.sp.gov.br/), que é um sistema via internet.\nO prazo para atendimento de uma solicitação de acesso à informação é de 20 dias corridos, prorrogáveis por mais 10 dias, quando justificável.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304409",
+                "email": "sic@cosespseguros.com.br",
+                "phone": "(11) 3254-4823"
+            },
+            {
+                "title": "Serviço de Informações ao Cidadão – SIC - Secretaria do Meio Ambiente",
+                "description": "Serviço instituído pela Lei Nº 12.527, de 18 de novembro de 2011, e regulado pelo Decreto Estadual Nº 58.052, de 16 de maio de 2012, que possibilita a solicitação de acesso à informação existente nos órgãos públicos, salvo as que forem consideradas sigilosas, o que pode ocorrer em casos que sua divulgação ponha em risco a segurança do Estado ou em casos de informações que sejam de caráter pessoal.\nAs solicitações podem ocorrer por meio do sistema via internet, site http://www.sic.sp.gov.br.\nO prazo para atendimento de uma solicitação de acesso à informação é de 20 dias corridos, prorrogáveis por mais 10 dias, quando justificável.",
+                "url": "",
+                "email": "",
+                "phone": ""
+            },
+            {
+                "title": "Serviço de Informações ao Cidadão – SIC - Universidade Estadual Paulista - Unesp",
+                "description": "Serviço instituído pela Lei Nº 12.527, de 18 de novembro de 2011, e regulado pelo Decreto Estadual Nº 58.052, de 16 de maio de 2012, que possibilita a solicitação de acesso à informação existente nos órgãos públicos, salvo as que forem consideradas sigilosas, o que pode ocorrer em casos que sua divulgação ponha em risco a segurança do Estado ou em casos de informações que sejam de caráter pessoal.\nAs solicitações podem ocorrer pelo telefone (11) 5627-0291; e-mail ape@reitoria.unesp.br; ou por carta: Rua Quirino de Andrade, 215 - 9º andar - a/c APE (Assessoria de Planejamento e Orçamento) - CEP 01049-010, São Paulo - SP. Ou pelo site www.sic.sp.gov.br.\nO prazo para atendimento de uma solicitação de acesso à informação é de 20 dias corridos, prorrogáveis por mais 10 dias, quando justificável.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304414",
+                "email": "",
+                "phone": "11-5627-0291"
+            },
+            {
+                "title": "Serviço de Informações ao Cidadão - SIC - Desenvolve SP - Agência de Desenvolvimento Paulista",
+                "description": "A Desenvolve SP – Agência de Fomento do Estado de São Paulo S.A. é uma instituição financeira do Governo do Estado de São Paulo que promove, desde 2009, o desenvolvimento sustentável do Estado por meio de operações de crédito consciente e de longo prazo para as pequenas e médias empresas paulistas.\nEm atendimento ao disposto no Decreto Estadual nº 58.052, de 16/05/2012, que regulamenta no Estado de São Paulo a Lei Federal nº 12.527, de 18/11/2011, a Desenvolve SP instituiu o Serviço de Informações ao Cidadão – SIC,  um canal de comunicação entre a Agência de Fomento do Estado de São Paulo e o cidadão que tem por objetivo garantir o pleno direito de acesso dos cidadãos às informações, dados e documentos públicos, de forma eficiente e adequada.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304415",
+                "email": "sic@desenvolvesp.com.br",
+                "phone": "(11) 3123-6048"
+            },
+            {
+                "title": "Serviço de Informações ao Cidadão - SIC - Secretaria de Estado da Fazenda",
+                "description": "Serviço instituído pela Lei Nº 12.527, de 18 de novembro de 2011, e regulado pelo Decreto Estadual Nº 58.052, de 16 de maio de 2012, que possibilita a solicitação de acesso à informação existente nos órgãos públicos, salvo as que forem consideradas sigilosas, o que pode ocorrer em casos que sua divulgação ponha em risco a segurança do Estado ou em casos de informações que sejam de caráter pessoal.\nAs solicitações podem ocorrer por meio de E-mail: sic@fazenda.sp.gov.br; Telefone (11) 3243-4391; Fax (11) 3243-3500; correio e presencial:  Avenida Rangel Pestana, 300 - Centro - São Paulo - SP - CEP 01017-911.\nTambém podem ser feitas pelo site: http://www.fazenda.sp.gov.br/sic/, que é um sistema via internet.\nO prazo para atendimento de uma solicitação de acesso à informação é de 20 dias corridos, prorrogáveis por mais 10 dias, quando justificável.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304416",
+                "email": "sic@fazenda.sp.gov.br",
+                "phone": ""
+            },
+            {
+                "title": "Serviço de Informações ao Cidadão - SIC - Complexo Hospitalar do Juquery-Franco da Rocha",
+                "description": "Serviço de Informações pela Lei Nº. 12.527, de 18 de novembro de 2011, e regulamentado pelo Decreto Estadual Nº 58.052, de 16 de maio de 2012, que possibilita a solicitação de acesso à informação existente nos órgãos públicos, salvo as que forem consideradas sigilosas, o que pode ocorrer em casos que sua divulgação ponga em risco a segurança do Estado ou em casos de informações que sejam de caráter pessoal.\nAs solicitações podem ocorrer po meio de e-mail: chj-ouvidoria@saude.sp.gov.br, carta no endereço: Av. Dos Coqueiros, 300 - Centro - Franco da Rocha ou pelos telefones: (11) 4811-9616 / 4443-2273 e pelo E-SIC ( http://www.sic.sp.gov.br).\nO prazo para atendimento de uma solicitação de acesso à informação é de 20 dias corridos, prorrogáveis por mais 10 dias quando justificável.",
+                "url": "",
+                "email": "chj-ouvidoria@saude.sp.gov.br",
+                "phone": ""
+            },
+            {
+                "title": "Serviço de Informações ao Cidadão - SIC - Secretaria de Desenvolvimento Econômico, Ciência e Tecnologia",
+                "description": "Por meio do Decreto Estadual nº 58.052, de 16 de Maio de 2012, foi criado o SIC - Serviço de Informação ao Cidadão que tem como finalidade atender o cidadão ue deseja solicitar o acesso à informação pública através de meio eletrônico, via telefone ou por documento protocolado na Secretaria.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304422",
+                "email": "",
+                "phone": "(11) 3331-0327\n(11) 3223-4097"
+            },
+            {
+                "title": "Serviço de Informações ao Cidadão – SIC - Arsesp",
+                "description": "Serviço instituído pela Lei nº 12.527, de 18 de novembro de 2011, e regulado pelo Decreto Estadual nº 58.052, de 16 de maio de 2012, que possibilita a solicitação de acesso à informação existente nos órgãos públicos, salvo as que forem consideradas sigilosas, o que pode ocorrer em casos que sua divulgação ponha em risco a segurança do Estado ou em casos de informações que sejam de caráter pessoal.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304426",
+                "email": "sic.arsesp@sp.gov.br",
+                "phone": "(11) 3293-0666"
+            },
+            {
+                "title": "Serviço de Informações ao Cidadão - SIC - Codasp",
+                "description": "Serviço instituído pela Lei Nº 12.527, de 18 de novembro de 2011, e regulado pelo Decreto Estadual Nº 58.052, de 16 de maio de 2012, que possibilita a solicitação de acesso à informação existente nos órgãos públicos, salvo as que forem consideradas sigilosas, o que pode ocorrer em casos que sua divulgação ponha em risco a segurança do Estado ou em casos de informações que sejam de caráter pessoal.\nAs solicitações podem ocorrer por meio de 'link' na página da Codasp - www.codasp.sp.gov.br - SIC, que será direcionado para  (http://www.sic.sp.gov.br/), pelo telefone (11) 5077-6500, por carta ou, presencialmente, na Av. Miguel Estéfano, 3900 - Água Funda-SP - CEP 04301-903.\nO prazo para atendimento de uma solicitação de acesso à informação é de 20 dias corridos, prorrogáveis por mais 10 dias, quando justificável.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304427",
+                "email": "ouvidoria@codasp.sp.gov.br",
+                "phone": "(11) 5077-6500"
+            },
+            {
+                "title": "Serviço de Informações ao Cidadão - SIC - Coordenadoria de Desenvolvimento dos Agronegócios - Codeagro",
+                "description": "Serviço instituído pela Lei n.º 12.527, de 18 de novembro de 2011, e regulado pelo Decreto Estadual n.º 58.052, de 16 de maio de 2012, que possibilita a solicitação de acesso à informação existente nos órgãos públicos, salvo as que forem consideradas sigilosas, o que pode ocorrer em casos que sua divulgação ponha em risco a segurança do Estado ou em casos de informações que sejam de caráter pessoal.\nAs solicitações podem ocorrer por meio de telefone: (011) 5067-0309, e-mail: ouvidoria@codeagro.sp.gov.br, carta: enviar correspondência ou comparecer presencialmente à Av. Miguel Estéfano, 3.900 - Água Funda - SP, CEP 04301-903 e pelo E-SIC (http://www.sic.sp.gov.br/), que é um sitema via internet.\nO prazo para atendimento de uma solicitação de acesso à informação é de 20 dias corridos, prorrogáveis por mais 10 dias, quando justificável.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304428",
+                "email": "ouvidoria@codeagro.sp.gov.br",
+                "phone": "(011) 5067-309"
+            },
+            {
+                "title": "Serviço de Informações ao Cidadão - SIC - Secretaria de Gestão Pública",
+                "description": "Serviço instituído pela Lei Nº 12.527, de 18 de novembro de 2011, e regulado pelo Decreto Estadual Nº 58.052, de 16 de maio de 2012, que possibilita a solicitação de acesso à informação existente nos órgãos públicos, salvo as que forem consideradas sigilosas, o que pode ocorrer em casos que sua divulgação ponha em risco a segurança do Estado ou em casos de informações que sejam de caráter pessoal.\nAs solicitações podem ocorrer por meio do telefone (11) 3218-5312, por correspondência, presencialmente e pelo E-SIC (http://www.sic.sp.gov.br/), que é um sistema via internet.\nO prazo para atendimento de uma solicitação de acesso à informação é de 20 dias corridos, prorrogáveis por mais 10 dias, quando justificável.",
+                "url": "",
+                "email": "",
+                "phone": "(11) 3218-5312"
+            },
+            {
+                "title": "Sistema de Atendimento ao Cidadão - SAC - Instituto Florestal",
+                "description": "O Sistema de Atendimento ao Cidadão - SAC é um canal direto de comunicação com o Instituto Florestal - IF visando melhor atendê-lo. Com esse serviço o cidadão poderá acionar o Instituto para encaminhar sua manifestação ao FALE CONOSCO, que será responsável por enviá-la aos setores competentes, para que as devidas providências sejam tomadas. Possibilita a solicitação de acesso à informação existente na instituição, salvo as que forem consideradas sigilosas, o que pode ocorrer em casos que sua divulgação ponha em risco a segurança do Estado ou em casos de informações que sejam de caráter pessoal.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304430",
+                "email": "",
+                "phone": ""
+            },
+            {
+                "title": "Serviço de Informações ao Cidadão - SIC - Coordenadoria de Assistência Técnica Integral - CATI",
+                "description": "Serviço instituído pela Lei Nº 12.527, de 18 de novembro de 2011, e regulado pelo Decreto Estadual Nº 58.052, de 16 de maio de 2012, que possibilita a solicitação de acesso à informação existente nos órgãos públicos, salvo as que forem consideradas sigilosas, o que pode ocorrer em casos que sua divulgação ponha em risco a segurança do Estado ou em casos de informações que sejam de caráter pessoal.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304431",
+                "email": "",
+                "phone": ""
+            },
+            {
+                "title": "Serviço de Informações ao Cidadão - SIC - Famema",
+                "description": "A Famema disponibiliza o Serviço de Informações ao Cidadão (SIC) para o recebimento de solicitações de informações públicas, amparadas pela Lei de Acesso à Informação, desde o mês de maio de 2012, o qual integra o Núcleo de Acolhimento.\nO Serviço de Informações ao Cidadão (SIC) permite que qualquer pessoa, física ou jurídica, encaminhe pedidos de acesso à informação para qualquer unidade do Complexo Famema.A resposta deve ser dada imediatamente, se estiver disponível, ou em até 20 dias, prorrogáveis por mais 10 dias mediante justificativa expressa e ciência do interessado.Os documentos não classificados com fundamentação legal quanto ao sigilo, serão encaminhados à Comissão de Avaliação de Documentos e Acesso – CADA. A negativa de acesso aos documentos, dados ou informações, quando não fundamentada, sujeitará o responsável às medidas disciplinares, de acordo com o artigo 32, da Lei Federal nº 12.527, de Acesso à Informação.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304432",
+                "email": "sic@famema.br",
+                "phone": "(14) 3402-1749\n0800-7771744"
+            },
+            {
+                "title": "Serviço de Informações ao Cidadão - SIC - DER",
+                "description": "Serviço instituído pela Lei nº 12.527 de 18 de novembro de 2011, e regulado pelo Decreto Estadual nº 58.052 de 16/05/2012 que possibilita a solicitação de acesso à informação existente nos órgãos públicos, salvo as que forem consideradas sigilosas, o que pode ocorrer em casos que sua divulgação ponha em risco a segurança do Estado ou em casos de informações que sejam de caráter pessoal.\nAs solicitações podem ocorrer por meio de telefone, e-mail (sic@der.sp.gov.br), carta, presencialmente e pelo E-SIC (www.sic.sp.gov.br) que é um sistema via internet.\nO prazo de atendimento de uma solicitação é de 20 dias corridos, prorrogáveis por mais 10 dias quando justificável.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304433",
+                "email": "sic@der.sp.gov.br",
+                "phone": ""
+            },
+            {
+                "title": "Serviço de Informações ao Cidadão – SIC - Fapesp",
+                "description": "Serviço instituído pela Lei no 12.527, de 18 de novembro de 2011, e regulado pelo Decreto Estadual no 58.052, de 16 de maio de 2012, que possibilita a solicitação de acesso à informação existente nos órgãos públicos, salvo as que forem consideradas sigilosas, o que pode ocorrer em casos que sua divulgação ponha em risco a segurança do Estado ou em casos de informações que sejam de caráter pessoal.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304434",
+                "email": "www.fapesp.br/converse",
+                "phone": "(11) 3838-4000"
+            },
+            {
+                "title": "Serviço de Informações ao Cidadão - SIC - Coordenadoria de Esporte e Lazer",
+                "description": "Serviço instituído pela Lei Nº 12.527, de 18 de novembro de 2011, e regulado pelo Decreto Estadual Nº 58.052, de 16 de maio de 2012, que possibilita a solicitação de acesso à informação existente nos órgãos públicos, salvo as que forem consideradas sigilosas, o que pode ocorrer em casos que sua divulgação ponha em risco a segurança do Estado ou em casos de informações que sejam de caráter pessoal.\nAs solicitações podem ocorrer por meio de telefone, e-mail, carta, presencialmente e pelo E-SIC (http://www.sic.sp.gov.br/), que é um sistema via internet.\nO prazo para atendimento de uma solicitação de acesso à informação é de 20 dias corridos, prorrogáveis por mais 10 dias, quando justificável.",
+                "url": "",
+                "email": "",
+                "phone": "3241-5822"
+            },
+            {
+                "title": "Serviço de Informações ao Cidadão - SIC - Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da USP",
+                "description": "Possibilita a solicitação de acesso à informação existente nos órgãos públicos, salvo as que forem consideradas sigilosas, o que pode ocorrer em casos que sua divulgação ponha em risco a segurança do Estado ou em casos de informações que sejam de caráter pessoal. O prazo para atendimento de uma solicitação de acesso à informação é de 20 dias corridos, prorrogáveis por mais 10 dias, quando justificável.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304438",
+                "email": "sichcrp@hcrp.usp.br",
+                "phone": "16 3602-2318"
+            },
+            {
+                "title": "Serviço de Informações ao Cidadão - SIC - Imesc",
+                "description": "Serviço instituido pela Lei nº 12.527, de 18 de novembro de 2011, e regulado pelo Decreto Estadual nº 58.052, de 16 de maio de 2012, que possibilita a solicitação de acesso à informação existente nos órgãos públicos, salvo as que forem consideradas sigilosas, o que pode ocorrer em casos que sua divulgação ponha em risco a segurança do Estado ou em casos de informação que sejam de caráter pessoal.\nAs solicitações podem ocorrer por meio de telefone, e-mail, carta e presencialmente e pelo E-SIC (http://www.sic.sp.gov.br/), que é um sistema via internet.\nO prazo para atendimento de uma solicitação de acesso à informação é de 20 dias corridos, prorrogáveis por mais 10, quando justificável.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304439",
+                "email": "",
+                "phone": "(11) 3821-1200"
+            },
+            {
+                "title": "Serviço de Informações ao Cidadão - SIC - Secretaria de Desenvolvimento Social",
+                "description": "Serviço instituído pela Lei Nº 12.527, de 18 de novembro de 2011, e regulado pelo Decreto Estadual Nº 58.052, de 16 de maio de 2012, que possibilita a solicitação de acesso à informação existente nos órgãos públicos, salvo as que forem consideradas sigilosas, o que pode ocorrer em casos que sua divulgação ponha em risco a segurança do Estado ou em casos de informações que sejam de caráter pessoal.\nO prazo para atendimento de uma solicitação de acesso à informação é de 20 dias corridos, prorrogáveis por mais 10, quando justificável.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304441",
+                "email": "",
+                "phone": "(11) 2763.8040"
+            },
+            {
+                "title": "Serviço de Informações ao Cidadão - SIC",
+                "description": "Serviço instituído pela Lei nº 12.527, de 18 de novembro de 2011, e regulado pelo Decreto Estadual nº 58.052, de 16 de maio de 2012, que possibilita a solicitação de acesso à informação existente nos órgãos públicos, salvo as que forem consideradas sigilosas, o que pode ocorrer em casos que sua divulgação ponha em risco a segurança do Estado ou em casos de ocorrer em casos de informações que sejam de caráter pessoal.\nAs solicitações podem ocorrer por meio do site: http:www.stm.sp.gov.br  no Link  Serviços de Informações ao Cidadão – SIC  -  Formulário Eletrônico SIC. SP (Sistema Eletrônico do Serviço de Informações ao Cidadão)  e também pelo E-SIC ( http://www.sic.sp.gov.br).",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304447",
+                "email": "sic@stm.sp.gov.br",
+                "phone": ""
+            },
+            {
+                "title": "Serviço de Informações ao Cidadão - SIC - Instituto de Pesca",
+                "description": "Serviço instituído pela Lei Nº 12.527, de 18 de novembro de 2011, e regulado pelo Decreto Estadual Nº 58.052, de 16 de maio de 2012, que possibilita a solicitação de acesso à informação existente nos órgãos públicos, salvo as que forem consideradas sigilosas, o que pode ocorrer em casos que sua divulgação ponha em risco a segurança do Estado ou em casos de informações que sejam de caráter pessoal.\nAs solicitações podem ocorrer por meio de: e-mail: ouvidoria@pesca.sp.gov.br, e pelo E-SIC (http://www.sic.sp.gov.br/), que é um sistema via internet.",
+                "url": "",
+                "email": "ouvidoria@pesca.sp.gov.br",
+                "phone": ""
+            },
+            {
+                "title": "Serviço de Informações ao Cidadão - SIC - Departamento Regional de Saúde de Sorocaba - DRS XVI",
+                "description": "Serviço instituído pela Lei nº 12.527, de 18/11/2011, e regulado pelo Decreto Estadual nº 58052, de 16/05/2012, que possibilita a solicitação e acesso a informação existente nos órgãos públicos, salvo as que forem consideradas sigilosas, o que pode ocorrer em casos que sua divulgação ponha em risco a segurança do estado ou em casos de informações que sejam de caráter pessoal.\nAs solicitações podem ocorrer por meio de (telefone, email, carta e presencialmente) e pelo e-sic (http://www.sic.sp.gov.br), que é um sistema via internet.\nO prazo para atendimento de uma solicitação e acesso a informação de acesso é de 20 dias corridos, prorrogáveis por mais 10 dias, quando justificável.",
+                "url": "",
+                "email": "",
+                "phone": ""
+            },
+            {
+                "title": "Serviço de Informações ao Cidadão - SIC - Jucesp",
+                "description": "Serviço instituído pela Lei Nº 12.527, de 18 de novembro de 2011, e regulado pelo Decreto Estadual Nº 58.052, de 16 de maio de 2012, que possibilita a solicitação de acesso à informação existente nos órgãos públicos, salvo as que forem consideradas sigilosas, o que pode ocorrer em casos que sua divulgação ponha em risco a segurança do Estado ou em casos de informações que sejam de caráter pessoal.\nAs solicitações podem ocorrer por meio de (indicar os meios como telefone, e-mail, carta, presencialmente) e pelo E-SIC (http://www.sic.sp.gov.br/), que é um sistema via internet.\nO prazo para atendimento de uma solicitação de acesso à informação é de 20 dias corridos, prorrogáveis por mais 10 dias, quando justificável.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304453",
+                "email": "",
+                "phone": ""
+            },
+            {
+                "title": "Serviço de Informações ao Cidadão - SIC - Secretaria da Administração Penitenciária",
+                "description": "Serviço instituído pela Lei Nº 12.527, de 18 de novembro de 2011, e regulado pelo Decreto Estadual Nº 58.052, de 16 de maio de 2012, que possibilita a solicitação de acesso à informação existente nos órgãos públicos, salvo as que forem consideradas sigilosas, o que pode ocorrer em casos que sua divulgação ponha em risco a segurança do Estado ou em casos de informações que sejam de caráter pessoal.",
+                "url": "",
+                "email": "",
+                "phone": "(11) 3206-4854"
+            },
+            {
+                "title": "Serviço de Informações ao Cidadão – SIC - Departamento Regional de Saúde de Araçatuba - DRS II - Araçatuba",
+                "description": "Serviço instituído pela Lei Nº 12.527, de 18 de novembro de 2011, e regulado pelo Decreto Estadual Nº 58.052, de 16 de maio de 2012, que possibilita a solicitação de acesso à informação existente nos órgãos públicos, salvo as que forem consideradas sigilosas, o que pode ocorrer em casos que sua divulgação ponha em risco a segurança do Estado ou em casos de informações que sejam de caráter pessoal.",
+                "url": "",
+                "email": "drs2-ouvidoria.sp.gov.br",
+                "phone": ""
+            },
+            {
+                "title": "Serviço de Informações ao Cidadão - SIC - Departamento de Polícia Judiciária de São Paulo Interior - Deinter 3 - Ribeirão Preto",
+                "description": "Instituído pela Lei Nº 12.527, de 18 de novembro de 2011, e regulado pelo Decreto Estadual Nº 58.052, de 16 de maio de 2012, que possibilita a solicitação de acesso à informação existente nos órgãos públicos, salvo as que forem consideradas sigilosas, o que pode ocorrer em casos que sua divulgação ponha em risco a segurança do Estado ou em casos de informações que sejam de caráter pessoal. As solicitações podem ocorrer por meio do telefone (16) 3610-6799 e pessoalmente no endereço localizado à Rua São Sebastião, 1339 - Centro - Ribeirão Preto.\nO prazo para atendimento de uma solicitação de acesso à informação é de 20 dias corridos, prorrogáveis por mais 10 dias, quando justificável.",
+                "url": "uip.deinter3@policiacivil.sp.gov.br",
+                "email": "",
+                "phone": "(16) 3610-6799"
+            },
+            {
+                "title": "Serviço de Informações ao Cidadão - SIC - IPT",
+                "description": "O Serviço de Informações ao Cidadão - SIC é o canal pelo qual é possível solicitar informações públicas do IPT, segundo a Lei Federal 12.527 de 18 de novembro de 2011 e o Decreto Estadual 58.052 de 16 de maio de 2012.\nPara saber que informações você pode solicitar ao SIC, consulte o link: http://www.corregedoria.sp.gov.br/adm/App_Cadastro/Uploads/Visualizar.aspx?id=74.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304459",
+                "email": "sic@ipt.br",
+                "phone": "(11) 3767-4907"
+            },
+            {
+                "title": "Serviço de Informações ao Cidadão - SIC",
+                "description": "Serviço instituído pela Lei Nº 12.527, de 18 de novembro de 2011, e regulado pelo Decreto Estadual Nº 58.052, de 16 de maio de 2012, que possibilita a solicitação de acesso à informação existente nos órgãos públicos, salvo as que forem consideradas sigilosas, o que pode ocorrer em casos que sua divulgação ponha em risco a segurança do Estado ou em casos de informações que sejam de caráter pessoal.\nAs solicitações podem ocorrer por meio do telefone (11) 3241-7346, ou via email:sutaco@sic.sp.gov.br, por carta ou presencialmente na Rua Boa Vista, 170 - 3º Andar - Bl. II e III - Centro - São Paulo - SP - CEP: 01014-000, e pelo E-SIC (http://www.sic.sp.gov.br/), que é um sistema via internet.\nO prazo para atendimento de uma solicitação de acesso à informação é de 20 dias corridos, prorrogáveis por mais 10 dias, quando justificável.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304460",
+                "email": "sutaco@sic.sp.gov.br",
+                "phone": "(11) 3241-7346"
+            },
+            {
+                "title": "Serviço de Informações ao Cidadão - SIC - Fundo Social de Solidariedade do Estado de São Paulo",
+                "description": "Serviço instituído pela Lei federal nº 12.527, de 18 de novembro de 2011 e regulado pelo Decreto estadual nº 58.052, de 16 de maio de 2012, que possibilita a solicitação de acesso à informação existente nos órgãos públicos, salvo as que forem consideradas sigilosas, o que pode ocorrer em casos em que sua divulgação ponha em risco a segurança do Estado ou em casos de informações que sejam de caráter pessoal.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304461",
+                "email": "fussesp@sic.sp.gov.br",
+                "phone": "(11) 2588-5944\n(11) 2588-5787"
+            },
+            {
+                "title": "Psicologia para Idosos - Instituto Paulista de Geriatria e Gerontologia",
+                "description": "Serviço voltado para a promoção da saúde mental do idoso, dentro de uma visão do envelhecimento como uma etapa do desenvolvimento.\nOferece um espaço de escuta que permite ao idoso expressar suas concepções, perceber potencialidades, desejos e aspirações nesse momento vital de suas vidas.\nProcura promover a aquisição e ou manutenção da autonomia, visando melhoria na qualidade de vida.",
+                "url": "",
+                "email": "",
+                "phone": ""
+            },
+            {
+                "title": "Serviço de Informações ao Cidadão - SIC SEADE",
+                "description": "Serviço instituído pela Lei Nº 12.527, de 18 de novembro de 2011, regulado pelo Decreto Estadual Nº 58.052, de 16 de maio de 2012, que possibilita a solicitação de acesso à informação existente nos órgãos públicos, salvo as que forem consideradas sigilosas, o que pode ocorrer em casos que sua divulgação ponha em risco a segurança do Estado ou em casos de informações que sejam de caráter pessoal.Desse modo, a Fundação Seade disponibiliza informações referentes às suas competências institucionais - dados e informações socioeconômicos e demográficos do Estado de São Paulo -, o aparato legal que a rege, bem como seus estatutos e estrutura organizacional.\nAs solicitações podem ocorrer por telefone, e-mail, carta, presencialmente e via internet, pelo E-SIC (http://www.sic.sp.gov.br/)  e site do Seade (http://www.seade.gov.br).\nO prazo para atendimento de uma solicitação de acesso à informação é de 20 dias corridos, prorrogáveis por mais 10 dias, quando justificável.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304475",
+                "email": "sicseade@seade.gov.br",
+                "phone": "(11) 3313-5777"
+            }
+        ]
+    },
+    {
+        "title": "Água e esgoto",
+        "services": [
+            {
+                "title": "Atendimento ao Consumidor - Sabesp",
+                "description": "Orientações para solicitação de serviços da Sabesp.\nA Sabesp oferece vários canais de atendimento (telefone, Agência Virtual, chat, terminal de autoatendimento e presencial) para a solicitação de serviços.\nVerifique no Guia de Serviços da empresa informações específicas sobre cada serviço, como e onde solicitar, quais os documentos necessários, preço e prazo de atendimento.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304268",
+                "email": "",
+                "phone": "0800 0119911\n0800 0550195"
+            },
+            {
+                "title": "Ouvidoria - Sabesp",
+                "description": "Sua função é atender reclamações e acatar críticas ou denúncias de um cliente que não se sentiu satisfeito com o atendimento prestado ou com a resolução dada ao seu problema nos demais canais de atendimento primários da Empresa (telefônico – 0800 ou 195, via internet - www.sabesp.com.br, presencial - Agências de Atendimento ao Cliente e Agências Poupatempo ou por meio do TACE- Técnico de Atendimento Comercial Externo).",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=747",
+                "email": "ouvidoria@sabesp.com.br",
+                "phone": "0800 055 05 65"
+            }
+        ]
+    },
+    {
+        "title": "Apoio à criança e ao adolescente",
+        "services": [
+            {
+                "title": "Prevenção à Violência e ao Uso de Drogas - Diretoria de Policiamento Comunitário e Direitos Humanos",
+                "description": "Programa Educacional de Resistência às Drogas e à Violência (Proerd), de prevenção, para crianças da pré-escola até o colegial e seus pais, através de reuniões e palestras, representando um esforço cooperativo entre as escolas, pais e polícia militar. Os objetivos principais do Proerd são noções de cidadania, prevenir o uso de drogas entre escolares e auxiliá-los a desenvolver técnicas de resistência à violência.",
+                "url": "",
+                "email": "",
+                "phone": ""
+            },
+            {
+                "title": "Centro de Referência em Transtornos do Espectro Autista Philippe Pinel - CREAPP - Internação",
+                "description": "Oferece internação de média permanência, adolescentes com até 18 anos incompletos portadores de transtornos invasivos do desenvolvimento em crise aguda, ou seja, nos casos em que esses pacientes apresentem risco para si próprios e para outros.\nTrabalhamos com equipe especializada no tratamento desta patologia.",
+                "url": "",
+                "email": "hppinel@uol.com.br",
+                "phone": ""
+            },
+            {
+                "title": "Núcleo de Enfermaria da Infância e Adolescência (NIA) - Centro de Atenção Integrada em Saúde Mental 'Philippe Pinel'",
+                "description": "Presta assistência integral especializada em saúde mental, regime de internação de curta permanência a crianças e adolescentes até 18 anos incompletos, com transtornos mental.\nA assistência ao paciente é realizada por equipe multidisciplinar, com atendimento familiar, cuidados gerais em clínica médica, odontologia, fisioterapia, fonoaudiologia, terapia ocupacional e outros, quando necessário.\nBusca-se a reinserção social e familiar do paciente e alta implicada junto aos CAPS.",
+                "url": "",
+                "email": "hpp-ouvidoria@uol.com.br",
+                "phone": ""
+            },
+            {
+                "title": "Oficinas Terapêuticas e de Produção (NOTP) - Centro de Atenção Integrada em Saúde Mental 'Philippe Pinel'",
+                "description": "Presta assistência ambulatorial ao usuário internado, bem como do Centro de Atenção Psisossocial, aos egressos de internação anteriores e a portadores de transtornos mentais da comunidade em geral.\nDesenvolve, em conjunto com as Gerências de Saúde Mental, atividades que complementem o tratamento global do paciente, promovendo sua interação social e resgatando a capacidade de pragmatismo e produção.\nRealiza oficinas para divulgação, exposição e comercialização dos produtos oferecidos pelo usuários/moradores, visando à geração de renda como parte do processo de inclusão no mercado de trabalho e o fortalecimento dos vínculos com a comunidade local.",
+                "url": "",
+                "email": "hppinel@uol.com.br",
+                "phone": ""
+            },
+            {
+                "title": "Atendimento à Vítima de Violência Doméstica - Delegacia de Defesa da Mulher - Departamento de Polícia Judiciária de São Paulo Interior - Deinter 3 - Ribeirão Preto",
+                "description": "Atendimento e apuração de crimes praticados contra as pessoas do sexo feminino, bem assim atendimento às crianças e adolescentes vítimas de violência. Além disso, quando necessário, encaminhamento desses aos órgãos competentes.",
+                "url": "",
+                "email": "",
+                "phone": ""
+            },
+            {
+                "title": "Audições para Novos Cantores dos Coros Infantil e Juvenil - Fundação Orquestra Sinfônica do Estado de São Paulo",
+                "description": "Audições anuais para crianças e adolescentes que tenham ou não conhecimento musical e desejam integrar os Coros Infantil e Juvenil da Orquestra Sinfônica do Estado de São Paulo.",
+                "url": "",
+                "email": "",
+                "phone": "(11) 3367-9606"
+            },
+            {
+                "title": "Ensino Fundamental e Ensino Médio para Jovens da Fundação CASA - Secretaria da Educação - Sede",
+                "description": "Serviço voltado para jovens de até 21 anos que não realizaram estudos correspondentes ao ensino fundamental ou médio, na idade própria. Os cursos são oferecidos nas unidades da Fundação C.A.S.A., utilizando-se de ensino presencial, tanto para os alunos de UI- Unidades de Internação, quanto aos alunos de Internação (Provisória) antes da sentença, pelo prazo máximo de 45 dias.",
+                "url": "",
+                "email": "",
+                "phone": ""
+            }
+        ]
+    },
+    {
+        "title": "Arte e cultura",
+        "services": [
+            {
+                "title": "Agenda Cultural - Assessoria de Comunicação da Secretaria da Cultura",
+                "description": "Divulgação institucional e da programação cultural no portal da Secretaria de Estado da Cultura de São Paulo.\nPermite consultar programação cultural completa, segundo data ou período, instituição cultural ou município do Estado de São Paulo.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=90",
+                "email": "comcultura@sp.gov.br",
+                "phone": "(11) 2627-8064\n(11) 2627-8000\n(11) 2627-8070"
+            },
+            {
+                "title": "Visitas Monitoradas - Fundação Memorial da América Latina",
+                "description": "Programa de visitas monitoradas agendadas com antecedência, para grupos de turistas ou escolares. Os visitantes percorrem, em aproximadamente duas horas, todo o espaço do Memorial, acompanhados por monitores especializados.",
+                "url": "",
+                "email": "",
+                "phone": "(11) 3823-4655\n(11) 3823-4748"
+            },
+            {
+                "title": "Visitas Educativas ao Palácio dos Bandeirantes - São Paulo",
+                "description": "O Centro de Monitoria do Acervo dos Palácios agenda visita acompanhada por educadores ao Palácio dos Bandeirantes. A entrada é gratuita.",
+                "url": "",
+                "email": "monitoria@sp.gov.br",
+                "phone": "(11) 2193-8282\n(11) 2193-8623"
+            },
+            {
+                "title": "Museu em Primavera - Companhia Energética de São Paulo - Cesp",
+                "description": "Museu em Primavera, distrito do município de Rosana, que armazena peças e fotos do período anterior à formação do reservatório.",
+                "url": "",
+                "email": "inform@cesp.com.br",
+                "phone": "(11) 5613-2100"
+            },
+            {
+                "title": "Visitas Monitoradas à Sala de Concertos São Paulo - Fundação Orquestra Sinfônica do Estado de São Paulo",
+                "description": "Visitas às instalações da antiga estação da Estrada de Ferro Sorocabana, que hoje é sede da Orquestra Sinfônica do Estado de São Paulo. Durante as visitas, os guias abordam sua importância como patrimônio histórico e marco da cidade; o processo de restauro e revitalização pelo qual passou no final da década de 90; e o projeto de construção da Sala São Paulo, destacando sua acústica, estrutura e detalhes sobre o funcionamento da sala de concertos.",
+                "url": "",
+                "email": "salasp-monitoria@osesp.art.br",
+                "phone": "(11) 3367-9573"
+            },
+            {
+                "title": "Tom Jobim - Escola de Música - Cursos, Workshops e Palestras",
+                "description": "A Escola de Música do Estado de São Paulo - Tom Jobim oferece cursos gratuitos - livres e regulares -, para todas as idades e níveis de conhecimento, das crianças à 3° Idade, e da iniciação musical à formação profissional.\nParalelamente às atividades pedagógicas de seus cursos de Formação Continuada e Cursos Livres, oferece periodicamente palestras abertas ao público em geral. Nas palestras, importantes pesquisadores e estudiosos da música e das artes apresentam resultados de estudos originais, complementando a formação musical tanto dos alunos dos cursos da Tom Jobim - EMESP, quanto do público externo.\nOferece ainda uma série de master classes, onde destacados instrumentistas nacionais e estrangeiros ensinam técnicas, trocam experiências e dão dicas de performance musical. As atividades das master classes são abertas a todos os estudantes de música interessados, selecionados nas categorias ativo ou ouvinte, conforme especificidades e exigências de cada um dos proponentes.",
+                "url": "",
+                "email": "talita.cazzolato@santamarcelinacultura.org.br",
+                "phone": "(11) 3729-1272\n(11) 3585-9888"
+            },
+            {
+                "title": "Apresentações de Música, Teatro e Cinema - Fundação Memorial da América Latina",
+                "description": "Programação mensal com apresentações de música popular e erudita, teatro e cinema, com ênfase em obras e artistas brasileiros e latino-americanos.",
+                "url": "",
+                "email": "memorialcomunica@gmail.com",
+                "phone": ""
+            },
+            {
+                "title": "Visitas Educativas - Museu da Casa Brasileira",
+                "description": "O Museu da Casa Brasileira (MCB) é a única instituição museológica brasileira dedicada às questões da cultura material da casa brasileira, especializado em design e arquitetura. O equipamento da Secretaria da Cultura do Governo do Estado de São Paulo é destaque nacional e internacional em seu segmento, e entre suas inúmeras iniciativas, destaca-se o Prêmio Design Museu da Casa Brasileira, realizado desde 1986.\nEle está instalado em uma mansão de estilo neoclássico construída entre 1942 e 1945 para abrigar a residência do ex-prefeito de São Paulo (1934-1938) Fábio da Silva Prado e sua esposa Renata Crespi Prado.\nO MCB possui um acervo de cerca de 400 peças representativas da cultura material da casa brasileira dos séculos XVII ao XXI. Entre o final de 2006 e início de 2007, a área expositiva do acervo foi reformada, com elaboração de nova museografia e incorporação de peças significativas dos séculos XX e XXI.\nAlém de expor sua coleção permanente de exemplares do mobiliário brasileiro dos séculos XVII ao XXI, o MCB reforça, em sua agenda cultural, a vocação para as áreas de arquitetura e design por meio de exposições temporárias e de um programa diversificado de debates, palestras, cursos, oficinas e lançamentos de livros.",
+                "url": "",
+                "email": "educativo@mcb.org.br",
+                "phone": "3032-3727"
+            },
+            {
+                "title": "Visitas Educativas - Museu de Arte Sacra de São Paulo",
+                "description": "O Museu de Arte Sacra, equipamento da Secretaria da Cultura do Governo do Estado de São Paulo, detêm a mais importante coleção do gênero no país, com peças criadas entre os séculos 16 e 20. Como a arte sacra exerceu papel central no processo de colonização da América do Sul no século 16, uma visita à instituição é também uma viagem pela história do Brasil. Barreiros, santeiros, prateiros e carpinteiros acompanharam o avanço da ocupação territorial e da catequese. Erguiam capelas e igrejas em torno das quais se desenvolveram povoados e cidades.\nO acervo é composto por mais de 18 mil peças entre artistas anônimos – característica própria da arte sacra – e obras de nomes reconhecidos, como Frei Agostinho da Piedade, Frei Agostinho de Jesus, Antonio Francisco de Lisboa, o “Aleijadinho” e Benedito Calixto de Jesus. Destacam-se também as coleções de prataria e ourivesaria, lampadários, mobiliário, retábulos, altares, vestimentas, livros litúrgicos e numismática (moedas e medalhas).\nO Museu de Arte Sacra de São Paulo também detém a guarda de importantes obras estrangeiras. Destas, ressalta-se o Presépio Napolitano, um raríssimo exemplar do século 18, em que são representados diversas profissões urbanas, pastores, homens do campo, objetos e móveis, que resumem a vida cotidiana em uma aldeia napolitana setecentista.\nO Museu está instalado no Mosteiro da Luz, que data de pelo menos 1583, quando se tem notícia de uma ermida (pequena capela) nos Campos do Guarepe, atual Avenida Tiradentes, no coração da cidade de São Paulo. Em 1603, foi transferida para esta capela a imagem de Nossa Senhora da Luz, que deu origem ao nome do bairro: Luz. Em 1774, o franciscano Frei Antônio de Sant’Anna Galvão obteve autorização para fundar, neste terreno, o Recolhimento da Imaculada Conceição da Luz. A nova construção acompanhou Frei Galvão até sua morte, em 1822, quando foi assumida pelo arquiteto Frei Lucas da Purificação.\nO Mosteiro da Luz é um dos mais importantes monumentos da arquitetura colonial paulista, construído em taipa de pilão, raro exemplar remanescente na cidade. E ainda hoje abriga a Ordem das Irmãs Concepcionistas, que vivem em clausura no andar superior.",
+                "url": "",
+                "email": "",
+                "phone": "mas@museuartesacra.org.br"
+            },
+            {
+                "title": "Visitas Educativas - Pinacoteca do Estado",
+                "description": "O mais antigo museu de São Paulo, a Pinacoteca do Estado também figura entre os mais importantes. Criada em 1905, em um projeto idealizado por Ramos de Azevedo, possui uma vasta coleção de obras brasileiras dos séculos 19 ao 21.\nEntre os andares do prédio, são realizadas exposições temporárias e de longa duração. Em todos os casos, há videoguia disponível para deficientes auditivos.\nÉ também no segundo andar que está instalada a Galeria Tátil de Esculturas Brasileiras, com 12 obras que compõem a exposição, especialmente elaboradas para que visitantes com deficiências visuais possam apreciá-las de forma autônoma, tocando-as e recebendo informações por meio de etiquetas e textos de dupla leitura (tinta e Braille), além de audioguia.\nA área central do museu, sob uma clarabóia, está instalado o Projeto Octógono Arte Contemporânea, em que normalmente são exibidas obras sítio específico – ou seja, concebidas especialmente para o espaço.\nNo térreo, estão instaladas uma exposição de paineis sobre a história da Pinacoteca, contada a partir de sua cronologia, e a Via Crucis, de Victor Brecheret, um conjunto de 26 esculturas em terracota. Ainda no térreo estão as áreas técnicas, o auditório e a cafeteria.\nOacervo da Pinacoteca tem atualmente 9 mil peças, composto obras de artistas consagrados como Antônio Parreiras, Benedito Calixto, Baptista da Costa, Oscar Pereira da Silva, Almeida Júnior, Victor Brecheret, Anita Malfatti, Wasth Rodrigues, Lasar Segall e Di Cavalcanti. Trabalhos contemporâneos também integram a coleção, com nomes como Waldemar Cordeiro, Samson Flexor, Arcangelo Ianelli, Nuno Ramos, Paulo Monteiro e Paulo Pasta.",
+                "url": "",
+                "email": "agendamento@pinacoteca.org.br",
+                "phone": "(11) 3324-0943\n(11) 3324-0944\n(11) 3324- 1000"
+            },
+            {
+                "title": "Visitas Educativas - Museu Casa de Portinari",
+                "description": "O Museu, mantido pela Secretaria da Cultura do Governo do Estado de São Paulo, tem como principal objetivo preservar a memória e difundir a história do pintor Candido Portinari e está localizado em Brodowski, 337 km da capital.\nInaugurado em março de 1970, o Museu Casa de Portinari tem no imóvel em que está localizado uma das suas principais atrações. Foi nele que Candido Portinari, renomado pintor da arte moderna brasileira, viveu durante toda a infância e parte da adolescência. Seus cômodos e anexos contam a história do artista e guardam suas obras, bem como desenhos, estudos, objetos pessoais e profissionais, utensílios, móveis e documentos que lhe pertenceram.\nA coleção de maior expressividade do Museu é constituída por pinturas murais, nas técnicas de afresco e têmpera, realizadas pelo próprio pintor nas paredes de sua casa.\nAlém de expor as pinturas e os objetos que fizeram parte da vida de Portinari, o Museu possui uma sala de pesquisa com vasto material sobre o artista, entre livros, revistas, catálogos, reportagens e artigos jornalísticos publicados no Brasil e no exterior.\nDe forma complementar, o Museu Casa de Portinari realiza, ainda, uma série permanente de atividades culturais, como os projetos “Férias no Museu”, “Oficinas Andantes” e “Semana de Portinari”, entre outros.\nO Museu Casa de Portinari é acessível para todos os públicos e oferece materiais em Braille, alto relevo, maquetes e audioguias, além de DVD em libras e rampas para facilitar o acesso de pessoas com mobilidade reduzida.",
+                "url": "",
+                "email": "museu@casadeportinari.com.br",
+                "phone": "(16) 3664-4284"
+            },
+            {
+                "title": "Ensino Musical e Prática Coletiva de Música para Crianças, Adolescentes e Jovens - Projeto Guri Interior, Litoral e Fundação Casa - Secretaria de Estado da Cultura",
+                "description": "O Projeto Guri é um programa que tem como missão a educação musical básica e a prática coletiva de música, tendo em vista o desenvolvimento humano das gerações em formação. Objetivos gerais: fortalecer a formação de crianças, adolescentes e jovens como sujeitos integrados positivamente em sociedade e difundir a cultura musical em sua diversidade.\nO atendimento aos alunos é realizado nos polos, no contra-turno escolar, onde são oferecidas aulas gratuitas e coletivas de instrumentos de cordas soltas, cordas de arco, sopros, percussão, canto coral e iniciação musical.",
+                "url": "",
+                "email": "projetoguri@projetoguri.org.br",
+                "phone": "(11) 3874-3355"
+            },
+            {
+                "title": "Cursos Regulares de Formação Artística - Associação de Amigos do Conservatório de Tatuí",
+                "description": "São ministrados, regularmente, na sede de Tatuí, os cursos nas seguintes áreas: cordas, sopros metais, sopros madeiras, regência, piano, harpa, violão, percussão, canto, performance histórica, MPB e Jazz, choro, artes cênicas e educação musical. No Pólo de São José do Rio Pardo, são ministrados os seguintes cursos: violino, viola, violoncelo, contrabaixo, trompete, trombone, trompa, tuba, flauta transversal, clarinete, saxofone, piano e percussão.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=1881",
+                "email": "secretaria@conservatoriodetatui.org.br",
+                "phone": "(15) 3205-8444"
+            },
+            {
+                "title": "Difusão Cultural Contínua - Associação de Amigos do Conservatório de Tatuí",
+                "description": "Serviços de difusão cultural contínua à população, por meio dos diversos grupos musicais e teatrais que o Conservatório de Tatuí possui. Realização de concertos, apresentações, recitais, entre outros, na cidade de Tatuí e diversas cidades do Estado de São Paulo, mediante solicitação das respectivas Prefeituras, bem como por associações civis e empresas privadas.",
+                "url": "",
+                "email": "artistico@conservatoriodetatui.org.br",
+                "phone": "(15) 3205-8444"
+            },
+            {
+                "title": "Aulas, Oficinas e Apresentações de Artes Cênicas em Escolas - Projeto Pensando na Criança - Associação de Amigos do Conservatório de Tatuí",
+                "description": "Oferecimento de aulas, oficinas e apresentações teatrais em escolas do município de Tatuí-SP, visando promover o acesso das crianças da periferia da cidade a atividades culturais.",
+                "url": "",
+                "email": "secretaria@conservatoriodetatui.org.br",
+                "phone": "(15) 3205-8444"
+            },
+            {
+                "title": "Agendamento de Eventos - Teatro Procópio Ferreira - Associação de Amigos do Conservatório de Tatuí",
+                "description": "Agendamento para uso do Teatro Procópio Ferreira, cuja capacidade é de 437 pessoas. O teatro possui rampas facilitadoras de acesso de portadores de deficiência e sua infra-estrutura inclui iluminação, sistema de som, fosso e equipamentos necessários para diversos tipos de apresentações, incluindo concertos musicais, óperas, peças teatrais e espetáculos de dança.",
+                "url": "",
+                "email": "artistico@conservatoriodetatui.org.br",
+                "phone": "(15) 3205-8444"
+            },
+            {
+                "title": "Comercialização de Obras da Editora Criadores do Brasil - Fundação Orquestra Sinfônica do Estado de São Paulo",
+                "description": "Venda de materiais e partituras de orquestras e repertório de câmara que já estejam sob domínio público, e aluguel de material de demais obras já editadas. A Editora Criadores do Brasil é voltada à edição e divulgação de obras de consagrados mestres e de novos talentos do meio erudito brasileiro.",
+                "url": "",
+                "email": "criadoresdobrasil@osesp.art.br",
+                "phone": "(11) 3367-9562"
+            },
+            {
+                "title": "Visitas Educativas ao Palácio Boa Vista - Campos do Jordão",
+                "description": "O Centro de Monitoria do Acervo dos Palácios agenda visita acompanhada por educadores ao Palácio Boa Vista. Entrada gratuita.\nHorário de visitação: de quarta a domingo e feriados, das 10h às 12h e das 14h às 17h.\nÉ proibida a entrada de câmera fotográfica, filmadora e bolsa.\nEndereço: Av. Adhemar de Barros, 3001, Alto da Boa Vista – Campos do Jordão - SP.",
+                "url": "",
+                "email": "monitoria@sp.gov.br",
+                "phone": "(12) 3668-9759\n(12) 3668-9700\n(12) 3668-9700"
+            },
+            {
+                "title": "Cursos - Academia de Música da Osesp - Fundação Orquestra Sinfônica do Estado de São Paulo",
+                "description": "Os cursos são compostos por aulas com os principais músicos da Osesp, palestras com artistas convidados, masterclasses, aulas de inglês, música de câmara, etc. A cada semestre são recrutados, aproximadamente, oito novos alunos, até um total de 40 alunos. Os cursos duram, em média, dois anos e destinam-se a alunos avançados em seus instrumentos.",
+                "url": "",
+                "email": "academia@osesp.art.br",
+                "phone": "(11) 3367-9605"
+            },
+            {
+                "title": "Aulas de Canto em Escolas – Projeto Coral nas Escolas — Associação de Amigos do Conservatório de Tatuí",
+                "description": "Aulas técnicas de canto e formação de coros diferenciados, realizadas em diversas escolas da rede pública de ensino e em instituições sem fins lucrativos do município de Tatuí-SP.",
+                "url": "",
+                "email": "secretaria@conservatoriodetatui.org.br",
+                "phone": "(15) 3205-8444"
+            },
+            {
+                "title": "Acesso Virtual ao Acervo Artístico-Cultural dos Palácios do Governo do Estado de São Paulo",
+                "description": "O Acervo Artístico-Cultural dos Palácios do Governo do Estadode São Paulo, composto por cerca de 3.500 peças de grande importância histórica e artística, tem como política de gestão documentar, preservar e divulgar este patrimônio público. Foi criado sítio na Internet, com o objetivo de divulgar o Acervo, disponibilizando informações sobre as obras, as exposições e os próprios palácios – o dos Bandeirantes, sede do governo em São Paulo, e o da Boa Vista, residência de inverno do governador, em Campos do Jordão. Os palácios são abertos às visitas e estas quando para grupos com mais de 10 pessoas são agendadas pelo site.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303692",
+                "email": "monitoria@sp.gov.br",
+                "phone": "(11) 2193-8623\n(11) 2193-8282"
+            },
+            {
+                "title": "Concertos Didáticos e Ensaios Abertos para Professores e Estudantes - Fundação Orquestra Sinfônica do Estado de São Paulo",
+                "description": "Realização de “concertos didáticos” ou de ensaios gerais abertos a professores e alunos, em apresentações preparadas especialmente para o público estudantil e definidas de acordo com a faixa etária do público alvo.",
+                "url": "",
+                "email": "educacionais@osesp.art.br",
+                "phone": "(11) 3367-9500\n(11) 3367-9570"
+            },
+            {
+                "title": "Audições para Novos Cantores dos Coros Infantil e Juvenil - Fundação Orquestra Sinfônica do Estado de São Paulo",
+                "description": "Audições anuais para crianças e adolescentes que tenham ou não conhecimento musical e desejam integrar os Coros Infantil e Juvenil da Orquestra Sinfônica do Estado de São Paulo.",
+                "url": "",
+                "email": "",
+                "phone": "(11) 3367-9606"
+            },
+            {
+                "title": "ProAC - Programa de Ação Cultural - Unidade de Fomento e Difusão de Produção Cultural",
+                "description": "Instituído pela Lei nº 12.268 de 20/02/06, o Programa de Ação Cultural tem os seguintes objetivos:\n- Apoiar e patrocinar a renovação, o intercâmbio, a divulgação e a produção artística e cultural no Estado;\n- Preservar e difundir o patrimônio cultural material e imaterial do Estado;\n- Apoiar pesquisas e projetos de formação cultural, bem como a diversidade cultural;\n- Apoiar e patrocinar a preservação e a expansão dos espaços de circulação da produção cultural.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303867",
+                "email": "ktomac@sp.gov.br",
+                "phone": "11 2627-8275\n11 2627-8226\n11 2627-8280"
+            },
+            {
+                "title": "Visitas Educativas - Paço das Artes",
+                "description": "O Paço das Artes é um ponto de confluência entre os mais diversos movimentos artísticos contemporâneos, abrangendo segmentos das artes visuais tais como artes plásticas, artes gráficas, design e multimídia. O museu foi criado em 1970 e desde então faz parte dos equipamentos da Secretaria da Cultura do Governo do Estado de São Paulo.\nIntegradas às exposições temporárias, o Paço das Artes oferece, ainda, apresentações de vídeos, cinema eletrônico digital, palestras, simpósios, oficinas, eventos musicais e literários, compondo um perfil multidisciplinar da cultura.\nA vocação experimental do Paço das Artes é constatada, ainda, por meio do programa “Temporada de Projetos”, que já possibilitou a emergência de mais de 180 artistas e mais de duas dezenas de jovens curadores e críticos. A cada edição, nove projetos artísticos e um projeto de curadoria são desenvolvidos com o respaldo da instituição, que também realiza as exposições. Os selecionados também recebem acompanhamento crítico e publicação de um catálogo.\nOutra característica do museu é não possuir acervo permanente. Orientado pelo conceito de arte como conhecimento, desenvolve exposições temporárias e promove trabalho de reflexão sobre os rumos da arte contemporânea por meio de atividades integradas, como seminários, palestras, encontros com artistas, curadores e críticos – alguns de porte internacional, como o Simpósio Internacional de Arte Contemporânea do Paço das Artes.",
+                "url": "",
+                "email": "educativo@pacodasartes.org.br",
+                "phone": ""
+            },
+            {
+                "title": "Visitas educativas - Museu da Imagem e do Som",
+                "description": "Investigar e promover a arte do século 21. Essa é a interessante proposta do Museu da Imagem e do Som (MIS-SP). Para tanto, a instituição da Secretaria da Cultura do Governo de São Paulo realiza exposições com foco em cinema, fotografia, vídeo, música, teatro e dança, a maioria deles multimeios.\nEntre os destaques da programação fixa do MIS estão o projeto “Acervo Vivo”, que organiza exposições com peças de seu acervo de mais de 200 mil itens, e o “Cinematógrapho”, sessões de cinema que contam com projeção de filmes mudos sonorizados por músicos ao vivo.\nOutro destaque é a “Maratona Infantil”. Um domingo por mês, crianças e suas famílias podem aproveitar um dia inteiro de atrações gratuitas que incluem exibição de filmes, oficinas, circo, teatro, contação de histórias e shows.\nO MIS promove, ainda, ações de fomento à educação cultural, como cursos, palestras e seminários e possui pontos de difusão e capacitação audiovisual espalhados pelo Estado de São Paulo, os chamados “Pontos MIS”, em parceria com as prefeituras.\nO acervo é composto por mais de 200 mil itens, entre fotografias, filmes, vídeos, cartazes, discos de vinil, equipamentos de imagem e som e registros sonoros, além dos livros, catálogos, periódicos, CDs, DVDs e VHS.Visitas Educativas.\nHá dois tipos de visitas educativas às exposições em cartaz no museu: a espontânea e a de grupos agendados. Para a visita de grupos é necessário um agendamento através do preenchimento do formulario online (http://www.mis-sp.org.br/educativo/agendamento_visitas). O agendamento estará concretizado somente após e-mail de confirmação por parte do MIS.\nCada setor do Museu, porém, tem seu horário próprio de funcionamento e condições específicas de ingresso. Confira abaixo no item respectivo de cada setor.",
+                "url": "",
+                "email": "midiateca@mis-sp.org.br",
+                "phone": "(11) 2117-4777"
+            },
+            {
+                "title": "Visitas Educativas - Museu da Língua Portuguesa",
+                "description": "No Museu da Língua Portuguesa, por meio de recursos tecnológicos e ambiente multimídia, o conteúdo do equipamento criado em 2006 pela Secretaria da Cultura do Governo do Estado de São Paulo é tratado de forma única, lúdica e inusitada. Sons, imagens, filmes, computadores, projeções holográficas, painéis digitais e recursos interativos se unem para mostrar a trajetória da Língua Portuguesa e como ela serve de fator de união cultural entre os países que a falam.\nO Museu também busca aproximar a língua do cidadão, usuário de seu idioma, mostrando que ele é o verdadeiro “proprietário” e agente modificador da Língua Portuguesa. O equipamento promove o intercâmbio entre os diversos países de língua portuguesa, através de cursos, palestras e seminários, entre outras atividades. Além dos espaços expositivos permanentes e temporários – em geral, homenagem a grandes escritores -, o Museu da Língua Portuguesa desenvolve uma série de ações paralelas. São diversas apresentações gratuitas de contadores de histórias e pequenos espetáculos teatrais.\nPeriodicamente, o espaço térreo recebe atividades que valorizam a oralidade, voltadas para o público infanto-juvenil. Os cursos de capacitação para contadores de histórias, ciclos de leitura, oficina de escrita são alguns deles. Essas atividades são sempre coordenadas por profissionais capacitados, de acordo com a temática a ser desenvolvida.\nO serviço educativo do museu conta com uma equipe especializada composta por uma coordenadora, um supervisor e cerca de 30 jovens universitários ou recém-formados, oriundos das áreas de Letras, História, Arquitetura e Sociologia, entre outras. Esta equipe é responsável pelas visitas monitoradas realizadas com pré-agendamento por escolas (públicas e particulares), durante a semana, e visitas monitoradas realizadas com o público espontâneo aos sábados e domingos.\nHá também educadores aptos a prestar serviço de monitoria em idiomas como inglês, espanhol, francês, italiano e japonês. Semanalmente, a equipe recebe em torno de 1.600 pessoas em visitas monitoradas. O museu da Língua Portuguesa possui acervo predominantemente virtual combinando arte, tecnologia e interatividade. As exposições utilizam objetos, vídeos, sons e imagens projetadas em grandes telas.",
+                "url": "",
+                "email": "agendamento@museulp.org.br",
+                "phone": "(11) 3326-0775\n(11) 3322-0080"
+            },
+            {
+                "title": "Visitas Educativas - Casa das Rosas - Espaço Haroldo de Campos de Poesia e Literatura",
+                "description": "A Casa das Rosas – Espaço Haroldo de Campos de Poesia e Literatura, equipamento da Secretaria da Cultura do Governo do Estado de São Paulo, ocupa um dos últimos casarões remanescentes da época de ouro do café na Avenida Paulista. A atmosfera onírica da antiga construção e seu jardim, em contraste com a moderna estrutura urbana, traduz o que a Casa das Rosas representa: um refúgio onde toda a expressão poética encontra seu espaço. Um território onde a liberdade artística se materializa, por meio de saraus, recitais, lançamentos de livros, peças de teatro, exposições e qualquer outro formato que privilegie a difusão da poesia e da arte em geral.\nA poesia encontra na Casa das Rosas um espaço completamente democrático, onde se pretende desfazer preconceitos e qualquer paradigma negativo sobre a arte poética. É também o primeiro espaço público do país destinado à poesia, sendo batizado como Espaço Haroldo de Campos de Poesia e Literatura, em homenagem ao poeta paulistano, falecido em 2003.\nA Casa abriga, entre o seu extenso acervo, a coleção particular de Haroldo de Campos, com mais de 20 mil volumes, além de possuir a única livraria especializada em poesia de São Paulo.",
+                "url": "",
+                "email": "contato@casadasrosas.org.br",
+                "phone": "(11) 3285 6986\n(11) 3288 9447"
+            },
+            {
+                "title": "Projeto Ademar Guerra - Associação Amigos das Oficinas Culturais",
+                "description": "O Projeto Ademar Guerra é formado por um conjunto de ações voltadas aos grupos de teatro amador em todo interior do Estado. O Projeto visa à capacitação técnica e artística, ao fortalecimento e autonomia desses grupos e ao apoio à circulação dos seus trabalhos. Dispõe da participação de um conjunto qualificado de artistas-orientadores com as mais variadas especificidades - diretores, atores, cenógrafos, figurinistas - que são responsáveis por estimular e orientar esses grupos, através de uma filosofia de ação que privilegia o trabalho coletivo, o desenvolvimento progressivo da qualidade técnica da equipe, o acesso aos procedimentos criativos em teatro e a busca de uma autonomia artística e de produção.",
+                "url": "",
+                "email": "projetoademarguerra@oficinasculturais.org.br",
+                "phone": "(11) 4096-9440\n(11) 4096-9839"
+            }
+        ]
+    },
+    {
+        "title": "Atestados e declarações",
+        "services": [
+            {
+                "title": "Benefícios - Pensão Mensal - São Paulo Previdência-SPPREV",
+                "description": "Permite acesso a informações, bem como a obtenção de formulários, relacionados à Pensão Mensal, benefício concedido aos familiares de funcionário estadual falecido, contribuinte da SPPREV.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303876",
+                "email": "spprev@spprev.sp.gov.br",
+                "phone": "0800 7777738"
+            },
+            {
+                "title": "Acesso ao Sistema DOF - Documento de Origem Florestal - Coordenadoria de Biodiversidade e Recursos Naturais",
+                "description": "Permite a obtenção de licença obrigatória para o controle do transporte e armazenamento de produtos e subprodutos florestais de origem nativa, inclusive o carvão vegetal nativo (Portaria MMA nº 253/2006).\nPara a obtenção do documento devem ser fornecidas informações sobre as espécies, tipo do material, volume, valor do carregamento, placa do veículo, origem, destino, além da rota detalhada do transporte. O DOF acompanha o produto ou subproduto florestal nativo por meio de transporte rodoviário, aéreo, ferroviário, fluvial, marítimo ou conjugado nessas modalidades.",
+                "url": "",
+                "email": "",
+                "phone": "(11) 3133-4113"
+            },
+            {
+                "title": "Emissão de Certidões - Arquivo Público do Estado",
+                "description": "O Arquivo Público do Estado fornece especificamente certidões para finalidades jurídicas, serviço prestado por funcionários especializados na leitura e transcrição paleográfica de documentos.Para solicitar uma certidão, é necessário o preenchimento do pedido, acompanhando o Termo de Responsabilidade do uso das informações.\nOs procedimentos para emissão de certidões provenientes do Museu da Imigração, é realizado de segunda a sexta-feira, das 9 às 17h.O interessado poderá fazer essa solicitação por meio eletrônico ou pessoalmente.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304059",
+                "email": "certidoes@arquivoestado.sp.gov.br",
+                "phone": "(11) 2089-8151\n2089-8166"
+            },
+            {
+                "title": "Emissão de Declaração de Conformidade da Atividade Agropecuária - DCAA - Coordenadoria de Assistência Técnica Integral - CATI",
+                "description": "A Declaração de Conformidade da Atividade Agropecuária é um documento que dispensa o licenciamento ambiental de algumas atividades agropecuárias em função de seu reduzido potencial poluidor/degradador, desde que não elas não impliquem em intervenção em áreas de preservação permanente ou supressão de vegetação nativa, conforme disposto na Resolução Conjunta SMA/SAA/SJDC 01, de 27/12/2011. Para sua emissão, o interessado cuja atividade se enquadra nesta Resolução deve preencher o requerimento disponível no site da CATI ou do ITESP e retirar a Declaração junto à Casa da Agricultura da CATI em seu município. Maiores informações estão disponíveis em http://www.cati.sp.gov.br/new/produtosservicos.php?ID=17.",
+                "url": "",
+                "email": "",
+                "phone": ""
+            }
+        ]
+    },
+    {
+        "title": "Ciência, tecnologia e inovação",
+        "services": [
+            {
+                "title": "Laudos Técnicos e Certificados de Calibração - Ipem/SP",
+                "description": "Emissão de laudos técnicos e certificados de calibração em padrões metrológicos, instrumentos de medir, etc., com a finalidade de dar suporte técnico em metrologia à indústria, comércio e outros interessados.",
+                "url": "",
+                "email": "cetec-ipem@ipem.sp.gov.br",
+                "phone": "(11) 3581-2420\n(11) 3581-2424"
+            },
+            {
+                "title": "Visitas Públicas e Monitoradas - MUGEO - Instituto Geológico",
+                "description": "Acervo, na área de Geociências, Meio Ambiente e Educação Ambiental, composto por coleções fósseis, minerais, rochas e peças históricas. A entrada e visitação pública no MUGEO são gratuitas. São promovidas visitas monitoradas para grupos (estudantes ou público em geral), que devem ser agendadas previamente. Entidades filantrópicas são isentas da taxa de ingresso.",
+                "url": "",
+                "email": "mugeo@igeologico.sp.gov.br",
+                "phone": "(11) 3673-6797\n(11) 3872-6358"
+            },
+            {
+                "title": "Apoio à Exportação - Progex - IPT",
+                "description": "Execução de Adequação Técnica de Produto para Exportação - ATPEX, com vistas ao Programa de Apoio Tecnológico à Exportação. São realizados ensaios, análises, testes e sugestões para modificar o produto.\nO Progex - Programa de Apoio Tecnológico tem como objetivo gerar novos exportadores ou ampliar a capacidade de exportação de micro, pequenas e médias empresas que já atuam ou que tenham intenção de atuar no mercado internacional, por meio da adequação técnica dos seus produtos a exigências de mercados específicos.",
+                "url": "",
+                "email": "progex@ipt.br, ipt@ipt.br",
+                "phone": "0800 555478"
+            },
+            {
+                "title": "Calibração de Instrumentos - Instituto de Pesquisas Tecnológicas do Estado de São Paulo S/A - IPT",
+                "description": "Calibrações de equipamentos e instrumentos, credenciados pelo Inmetro e pelo DKD (Deutscher KalibrierDienst) da Alemanha. No site do IPT é possível localizar, por meio de busca, todas as calibrações realizadas pelo IPT, bem como os laboratórios e técnicos responsáveis. É referência nacional da área de calibração e foi o primeiro laboratório credenciando pelo Inmetro.",
+                "url": "",
+                "email": "ipt@ipt.br",
+                "phone": "(11) 3767-4126"
+            },
+            {
+                "title": "Ensaios e Análises - IPT",
+                "description": "O IPT realiza ensaios e análises em produtos e materiais. Possui acreditação de diversos ensaios pelo Inmetro e reconhecimento pela Rede Metrológica do Estado de São Paulo. No site do IPT é possível localizar, por meio de uma busca, os ensaios realizados, bem como os laboratórios e os técnicos responsáveis.",
+                "url": "",
+                "email": "ipt@ipt.br",
+                "phone": "(11) 3767-4126\n(11) 3767-4744"
+            },
+            {
+                "title": "Informações sobre Normas Técnicas - IPT",
+                "description": "Serviços de informação na área de normas técnicas. O IPT possui coleções completas e atualizadas das normas técnicas dos principais organismos normativos nacionais e internacionais, incluindo as normas históricas de todas as coleções de seu acervo. Para empresas com necessidades freqüentes de informação e documentação de normas técnicas é oferecido o Serviço de Atualização de Normas Técnicas (SAA), que atualiza e monitora sistematicamente o acervo de normas técnicas da empresa, com base em bancos de dados nacionais e internacionais sempre atualizados. Também disponível para consulta em ambiente Web.",
+                "url": "",
+                "email": "normas@ipt.br",
+                "phone": "(11) 3767-4625"
+            },
+            {
+                "title": "Informações sobre Linhas e Projetos de Pesquisa - IPT",
+                "description": "O IPT desenvolve projetos de pesquisa, desenvolvimento e inovação, em parceria com empresas, em vários campos da engenharia. Provê soluções e serviços tecnológicos que visam aumentar a competitividade das empresas e promover a qualidade de vida.",
+                "url": "",
+                "email": "ipt@ipt.br",
+                "phone": "(11) 3767-4126\n(11) 3767-4744"
+            },
+            {
+                "title": "Unidades Móveis – Projeto Prumo - IPT",
+                "description": "Serviço voltado para empresas de até 100 empregados (principalmente, de pequeno porte). Consiste de unidades móveis, dotadas de equipamentos laboratoriais, que se deslocam até as empresas para identificar os principais problemas técnicos e realizar ensaios e análises de matéria-prima e produtos e sugerir modificações, sob a condução de engenheiros e técnicos do IPT. As 13 unidades móveis existentes atuam nos setores de plásticos, borrachas, tratamento de superfícies, couros e calçados, madeiras e móveis, cerâmica e confecções.",
+                "url": "",
+                "email": "prumo@ipt.br",
+                "phone": "(11) 3767-4126"
+            },
+            {
+                "title": "Informações para Fornecedores do IPT",
+                "description": "Informações sobre cadastramento de fornecedores do IPT, bem como informações de pregões presenciais da instituição.",
+                "url": "",
+                "email": "cs@ipt.br",
+                "phone": "(11) 3767-4056\n(11) 3767-4022\n(11) 3767-4130"
+            },
+            {
+                "title": "Análises e Controle de Qualidade de Alimentos – Instituto de Tecnologia de Alimentos",
+                "description": "Realização de ensaios laboratoriais nas áreas de proteínas, aminoácidos, alimentos de base protéica, alimentos funcionais, aditivos, micronutrientes, resíduos de pesticidas, contaminantes inorgânicos, óleos e gorduras, colesterol e bromatologia. Avaliação sensorial e física de alimentos, análises físicas e microscópicas, planejamento estatístico de experimentos e análises estatísticas de dados. Ensaios laboratoriais e análises microbiológicas de alimentos.",
+                "url": "",
+                "email": "",
+                "phone": "19 3743 1800\n19 3743 1798\n19 3743 1970"
+            },
+            {
+                "title": "Processos Tecnológicos para Embalagem - Instituto de Tecnologia de Alimentos",
+                "description": "Atividades de pesquisa e desenvolvimento; assistência tecnológica para a cadeia produtiva e usuária de embalagem, atuando com diferentes materiais e formas de utilização de embalagens celulósicas, plásticas, metálicas, de vidro e de transporte e distribuição.",
+                "url": "",
+                "email": "",
+                "phone": "(19) 3743-1900"
+            },
+            {
+                "title": "Processos e Produtos Tecnológicos de Alimentos - Instituto de Tecnologia de Alimentos",
+                "description": "Pesquisa e desenvolvimento de produtos e processos; prestação de serviços e assistência tecnológica industrial, fornecendo suporte ao setor industrial de carnes (bovinos, suínos, aves e de pescado), leite e produtos derivados, cereais, farinhas, biscoitos, massas e pães, industrias de chocolates, balas, confeitos e sobremesas; tecnologia de pós-colheita; tecnologia de processamento de frutas e hortaliças; e projetos agroindustriais.",
+                "url": "",
+                "email": "",
+                "phone": ""
+            },
+            {
+                "title": "Informações Tecnológicas e Apoio Logístico na Área de Alimentos - Instituto de Tecnologia de Alimentos",
+                "description": "Atendimento ao usuário, prestando serviços especializados, como busca de informações, respostas técnicas, localização e recuperação de documentos, acesso às bases de dados e referências bibliográficas.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=2056",
+                "email": "",
+                "phone": ""
+            },
+            {
+                "title": "Bolsas e Auxílios para Projetos de Pesquisa Científica e Tecnológica - Fapesp",
+                "description": "Programas de bolsas e auxílios concedidos pela Fundação, vinculados a projetos de pesquisa científica e/ou tecnológica em todas as áreas do conhecimento, coordenados por pesquisadores com título de doutor ou equivalente residentes em São Paulo e ligados a instituições de ensino e pesquisa paulistas. A Fapesp promove análise de propostas de financiamento apresentadas, acompanha o desenvolvimento das pesquisas, avalia o resultado de suas ações, produz indicadores de ciência e tecnologia e promove a divulgação da cultura científica tecnológica do estado e do país.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=2238",
+                "email": "",
+                "phone": "(11) 3838-4000"
+            },
+            {
+                "title": "Lazer - Museus Biológico, de Microbiologia, Histórico e de Rua; Serpentário e Parque - Instituto Butantan",
+                "description": "Os visitantes podem usufruir do parque, com serpentário, além de apreciar o Mosaico “Fragmentos & Sentimentos”, na Praça Vital Brazil, ao lado do Museu Histórico. São cerca de 10 mil visitantes por mês, números que chegam a dobrar no período de férias escolares.\nNo serpentário, as cobras circulam livres em um fosso, sem qualquer perigo ao visitante. Todas as quintas-feiras, das 14h30 às 15h30, o Butantan oferece gratuitamente ao público a oportunidade de manipular duas espécies não venenosas - a falsa coral e a dormideira, no projeto de educação ambiental “Mão na Cobra só no Butantan”, que acontece em frente ao serpentário. O objetivo é desmistificar a relação de medo com o animal (em dias chuvosos, muito frios, e em feriados não há demonstração).\nO Instituto Butantan ainda oferece o Museu Biológico, onde se encontram espécies das principais serpentes brasileiras, aranhas e iguanas; o Museu Histórico, que relembra através de objetos e fotos o início do século XX, época em que o Instituto era uma fazenda, e o Museu de Microbiologia, onde é possível verificar a vida de seres microscópicos, como moléculas de DNA e vírus. (Museu de Microbiologia fechado de 28/01/2014 a 06/02/2014 para reforma).",
+                "url": "",
+                "email": "agendamento@butantan.gov.br",
+                "phone": "11 2627-9536"
+            },
+            {
+                "title": "Programa de Visitas - IPT",
+                "description": "Faculdades e escolas técnicas podem visitar os laboratórios do IPT, agendando sua visita com a Assessoria de Marketing Corporativo/Eventos. Programa aberto a estudantes e professores.",
+                "url": "",
+                "email": "eventos@ipt.br",
+                "phone": "(11) 3767-4176\n(11) 3767-4918"
+            },
+            {
+                "title": "Datação de Rochas e Análises - Laboratório Potássio/Argônio – CPGeo - Instituto de Geociências da Universidade de São Paulo",
+                "description": "Datação de rochas e minerais por meio das determinações de Potássio(K) por fotometria de chama, linha de extração de Argônio(Ar) em ultra-alto vácuo e medidas em espectrômetro de massa “out-line”.",
+                "url": "",
+                "email": "aton@usp.br",
+                "phone": ""
+            },
+            {
+                "title": "Comercialização de Materiais de Referência - IPT",
+                "description": "O IPT produz e comercializa materiais de referência orgânicos, inorgânicos e Areia Normal. As matrizes disponíveis são aços, ferros fundidos, metais puros, ligas de cobre e aços-liga, minerais e minérios e refratários. Os materiais de referência são utilizados em calibrações, adições de padrão, desenvolvimento e validação de metodologias, avaliação de proficiência, alem de apoiar a garantia de rastreabilidade de resultados dos laboratóriossses materiais são produzidos sob rigoroso controle e servem de padrão de comparação",
+                "url": "",
+                "email": "vendanet@ipt.br",
+                "phone": "(11) 3767-4109"
+            },
+            {
+                "title": "Venda de Publicações e Mapas - Instituto Geológico",
+                "description": "As publicações e mapas podem ser adquiridos no IG ou por meio de contato telefônico, e-mail ou correspondência.",
+                "url": "",
+                "email": "vendas@igeologico.sp.gov.br",
+                "phone": "(11) 5073-5511"
+            },
+            {
+                "title": "Informações sobre o Centro Tecnológico - Ipem/SP",
+                "description": "Informações sobre o Cetec - Centro Tecnológico do Ipem/SP, cujo objetivo é oferecer à sociedade a prestação de serviços em metrologia, calibrações e medições especiais, com emissão de certificados de calibração e de laudos técnicos. Dados consolidados de desempenho do Centro Tecnológico, endereços das unidades de fiscalização, informação sobre valores das taxas de inspeção e de serviços metrológicos. Disponibilização de informações sobre os laboratórios do Cetec (comprimento, etilômetro, massa, pressão, temperatura e volume).",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303677",
+                "email": "cetec-ipem@ipem.sp.gov.br",
+                "phone": "(11) 3581-2420"
+            },
+            {
+                "title": "Biblioteca Virtual - Instituto de Tecnologia de Alimentos",
+                "description": "Acesso a informações bibliográficas na área de tecnologia de alimentos e de embalagens.",
+                "url": "",
+                "email": "bibital@ital.sp.gov.br",
+                "phone": "(19) 3743-1748"
+            },
+            {
+                "title": "Cepam 2.0 - Disponibilização de Ferramentas Web Colaborativas - Cepam",
+                "description": "O Cepam disponibiliza acesso a uma série de ferramentas na Internet, considerando o ambiente colaborativo da 'Web 2.0'.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304112",
+                "email": "cepam@sp.gov.br",
+                "phone": "011 38110300"
+            },
+            {
+                "title": "Fóruns Permanentes - Universidade Estadual de Campinas",
+                "description": "Os Fóruns Permanentes existem desde 2003. Visando o desenvolvimento cultural, social e econômico do país, eles foram concebidos para propiciar o intercâmbio de experiências e pesquisas feitas por profissionais e estudantes da Unicamp e profissionais de outras instituições da sociedade. Ou seja, os Fóruns Permanentes se caracterizam por ser um espaço de integração entre a comunidade interna da Unicamp com a comunidade externa à Unicamp.\nEm 2011 foram tomadas duas medidas no sentido de otimizar a divulgação dos debates: os Fóruns passaram a ser transmitidos via Web, e os slides, resumos ou textos são apresentados e estão sendo organizados em uma biblioteca virtual.\nInscrições podem ser feitas pelo site (http://foruns.bc.unicamp.br), com cerca de uma semana de antecedência, ou no próprio dia e local do evento.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304180",
+                "email": "sonia.mazzariol@reitoria.unicamp.br",
+                "phone": ""
+            },
+            {
+                "title": "Análises, Ensaios e Diagnósticos – Universidade Estadual Paulista - Unesp",
+                "description": "A Universidade Estadual Paulista, por meio de suas unidades, oferece serviços de análises laboratoriais, ensaios de desempenho de equipamentos e instrumentos bem como diagnósticos diversos. Clique nos links para conhecer as unidades fornecedoras desse serviço ou diretamente no recurso oferecido para obter maiores informações. (Observação: análises laboratoriais, da área de saúde, estão informadas no serviço “Assistência à Saúde da Comunidade”).",
+                "url": "",
+                "email": "",
+                "phone": ""
+            },
+            {
+                "title": "Comercialização de Produtos e Prestação de Serviços na Área Nuclear e Correlatas – Instituto de Pesquisas Energéticas e Nucleares - Ipen",
+                "description": "Comercialização de produtos radioisótopos, radiofármacos, kits liofilizados e outros produtos para aplicação em medicina nuclear; materiais e fontes radioativas para indústrias (química, metalurgia, petroquímica, naval, papel, etc) e pesquisa.\nPrestação de serviços de irradiação, dosimetria (externa e interna), calibração de instrumentos, execução de análises e ensaios físicos, químicos, mecânicos, radiométricos, metalúrgicos, biológicos e outros, tratamento de rejeitos radioativos, consultoria em pesquisa nuclear, consultoria em processos industriais e químicos (com ou sem transferência de tecnologia).",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304325",
+                "email": "sac@ipen.br",
+                "phone": "(11) 3133-9161\n(11) 3133-9162"
+            },
+            {
+                "title": "Serviço de Atendimento ao Cliente – Instituto de Pesquisas Energéticas e Nucleares - Ipen",
+                "description": "Serviço de Atendimento ao Cliente - Canal de comunicação direto entre o Ipen e os seus clientes, para emissão de opiniões, sugestões, orientação acerca dos produtos ou prestação de serviços (cotações, contratos, reclamações, orientações, alterações cadastrais, pedidos de fonte para aferição,etc).\nO SAC Ipen pode ser acionado no horário das 8h às 16h30 horas através do telefone (11) 3133- 9161, 3133-9162, 3133-9083 e 3133-9085. Também pode ser acionado 24 horas por dia através do fax (11) 3133- 9107ou por correio eletrônico: sac@ipen.br.\nO Ipen também coloca à disposição um serviço dedicado ao esclarecimento de dúvidas sobre energia nuclear e assuntos correlatos. Trata-se do Ipen Responde, onde o cidadão pode enviar perguntas ou sugestões por meio de formulário, as quais são posteriormente encaminhadas e respondidas pelos pesquisadores do Ipen. As perguntas sobre Energia Nuclear e Segurança, respondidas anteriormente, permanecem disponíveis para consulta.",
+                "url": "",
+                "email": "sac@ipen.br",
+                "phone": "(11) 3133-9161\n(11) 3133-9162"
+            }
+        ]
+    },
+    {
+        "title": "Comercialização e/ou empréstimo de espaços públicos",
+        "services": [
+            {
+                "title": "Cadastramento ou Credenciamento para a Exploração de Áreas Comerciais ou Lojas no Metrô",
+                "description": "Os interessados em explorar comercialmente áreas/lojas nas estações do Metrô ou em realizar ações promocionais, deverão cadastrar-se ou credenciar-se à Rua da Quitanda, 113 4º andar - Centro. Para obter localizações e especificações das oportunidades de negócio, consulte http://www.metro.sp.gov.br/metro/negocios/midia/index.aspx.\nO cadastramento deverá ser feito para participar de licitação de lojas ou espaços para realização de feiras e eventos. Para realizar ações promocionais ou fixar estandes, em caráter temporário, deverá ser feito credenciamento.",
+                "url": "",
+                "email": "comercial@metrosp.com.br",
+                "phone": "0800 7707722\n(11) 3295-0654\n(11) 3295-0655"
+            },
+            {
+                "title": "Credenciamento de Empresas Interessadas em Espaços Publicitários nas Estações e Trens do Metrô",
+                "description": "Credenciamento de empresas interessadas em utilizar os espaços publicitários e comerciais temporários nas estações e trens do Metrô. Os interessados deverão apresentar-se com a documentação necessária (relação existente no site do Metrô www.metro.sp.gv.br) à Rua Boa Vista, 175 - 2° andar Bloco B - Coordenadoria de Gestão de Processos e de Cadastro de Fornecedores.",
+                "url": "",
+                "email": "comercial@metrosp.com.br",
+                "phone": ""
+            },
+            {
+                "title": "Visitação Pública ao Jardim Botânico de São Paulo e ao Instituto de Botânica - Instituto de Botânica",
+                "description": "Visitação pública, visitas monitoradas e utilização do Jardim Botânico de São Paulo e do Instituto de Botânica para fotos, filmagens e eventos. Dispõe de alojamento e anfiteatro para eventos sociais e comerciais.",
+                "url": "",
+                "email": "vbononi@sp.gov.br",
+                "phone": "(11) 5067-6000"
+            },
+            {
+                "title": "Credenciamento de empresas para exploração de espaços promocionais e publicitários - CPTM",
+                "description": "Credenciamento de empresas interessadas para utilização dos espaços publicitários e promocionais disponíveis nas estações e nos trens da CPTM. Os interessados deverão entregar documentação necessária, à Rua Boa Vista 84 – 5 andar das 08h30 às 11h30 e 13h30 às 16h30. O regulamento encontra-se disponível no site da CPTM (www.cptm.sp.gov.br)",
+                "url": "",
+                "email": "",
+                "phone": "(11) 3188-8928\n3188-8927\n3188-8926"
+            },
+            {
+                "title": "Aluguel/Cessão de Dependências do Centro de Treinamento - Coordenadoria de Assistência Técnica Integral - CATI",
+                "description": "Aluguel ou cessão das salas e do auditório, para outras instituições públicas e privadas que se interessarem. Para o acesso, a CATI disponibiliza a legislação pertinente bem como formulários para a solicitação destes serviços.\nO Centro de Treinamento possui salas de aula, de reunião e de informática, assim como um auditório, com capacidade de 238 lugares. Essas dependências são viabilizadas para aluguel ou cessão, para outras instituições públicas e privadas que se interessarem, mediante solicitação prévia.",
+                "url": "",
+                "email": "",
+                "phone": ""
+            },
+            {
+                "title": "Exploração de Mídias em Áreas e Equipamentos de Propriedade da EMTU/SP",
+                "description": "Espaços publicitários para divulgação de produtos e serviços, nos terminais gerenciados pela EMTU/SP.",
+                "url": "",
+                "email": "",
+                "phone": "(11) 4341-1214\n(11) 3113-4710"
+            }
+        ]
+    },
+    {
+        "title": "Comercialização de espaço em Diário Oficial",
+        "services": [
+            {
+                "title": "Publicidade Legal - Venda de Espaço no Diário Oficial - Imprensa Oficial",
+                "description": "Venda de espaço para publicação legal no Diário Oficial da Imprensa Oficial:\n- Diário Oficial do Estado de São Paulo – Poder Executivo, Seção I (Matérias de Prefeituras e Câmaras Municipais, Ministérios e Órgãos Federais);\n- Diário Oficial Empresarial, tais como editais, balanços, extravios de documentos, atas, convocações, licenciamento Cetesb, etc.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=1017",
+                "email": "",
+                "phone": "0800 01234 01"
+            },
+            {
+                "title": "Pubnet - Publicação online no Diário Oficial – Imprensa Oficial",
+                "description": "Sistema para transmissão, via Web, de matérias a serem publicadas no Diário Oficial de São Paulo. A segurança na troca de informações é garantida pela utilização de tecnologia de certificação digital.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=1669",
+                "email": "",
+                "phone": "0800 01234 01"
+            }
+        ]
+    },
+    {
+        "title": "Comercialização de produtos",
+        "services": [
+            {
+                "title": "Comercialização de Produtos Artesanais e Eventos - Sutaco",
+                "description": "Compra, consignação e venda de peças artesanais de artesãos cadastrados; apoio na intermediação entre empresa e artesão; adequação da peça ao mercado com orientação de preço e qualidade; realização e participação de feiras e eventos do segmento, divulgando e fomentando a atividade.",
+                "url": "",
+                "email": "comercializacao@sutaco.sp.gov.br",
+                "phone": "(11) 32417333\n(11) 32417355"
+            }
+        ]
+    },
+    {
+        "title": "Consultoria a empresas",
+        "services": [
+            {
+                "title": "Apoio à Exportação - Progex - IPT",
+                "description": "Execução de Adequação Técnica de Produto para Exportação - ATPEX, com vistas ao Programa de Apoio Tecnológico à Exportação. São realizados ensaios, análises, testes e sugestões para modificar o produto.\nO Progex - Programa de Apoio Tecnológico tem como objetivo gerar novos exportadores ou ampliar a capacidade de exportação de micro, pequenas e médias empresas que já atuam ou que tenham intenção de atuar no mercado internacional, por meio da adequação técnica dos seus produtos a exigências de mercados específicos.",
+                "url": "",
+                "email": "progex@ipt.br",
+                "phone": "0800 555478"
+            },
+            {
+                "title": "Informações sobre a Sistemática de Fiscalização de Produtos Pré-Medidos- Ipem/SP",
+                "description": "Informações sobre a sistemática de fiscalização e principais rotinas cumpridas pelas equipes do Ipem-SP, referentes a produtos pré-medidos, que são aqueles cuja medição é efetuada sem a presença do consumidor.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303213",
+                "email": "dmlf-premedidos@ipem.sp.gov.br",
+                "phone": "(11) 3581-2252\n3581-2243"
+            },
+            {
+                "title": "Atividades de Fomento à Inovação Tecnológica - Agência de Inovação - Inova - Universidade Estadual de Campinas – Unicamp",
+                "description": "Órgão que atua no apoio e na execução de atividades voltadas para inovação e implementação da política de propriedade intelectual da Unicamp. Oferece oportunidades de incubação, criação e consolidação de empresas de base tecnológica. Coordena as ações da Unicamp em conjunto com órgãos municipais, estaduais e nacionais, com o objetivo de desenvolver o parque tecnológico de Campinas.",
+                "url": "",
+                "email": "",
+                "phone": "(19) 3521-5205\n(19) 3521-5201\n(19) 3521-5210"
+            },
+            {
+                "title": "Assessorias e Consultorias – Universidade Estadual Paulista - Unesp",
+                "description": "Oferecimento de serviços de assessorias e consultorias a instituições públicas e privadas, tendo em vista aprimoramentos relacionados tanto às necessidades do mercado quanto do público consumidor de produtos e serviços presentes no cotidiano da população.",
+                "url": "",
+                "email": "",
+                "phone": ""
+            }
+        ]
+    },
+    {
+        "title": "Crédito, financiamento e serviços bancários",
+        "services": [
+            {
+                "title": "Microcrédito aos Artesãos - Sutaco",
+                "description": "Concessão de microcrédito, proveniente de parceria Sutaco-Banco do Povo Paulista, cuja finalidade é incentivar e propagar o trabalho dos artesãos, por meio do microcrédito, tendo em vista que os artesãos encontram grande dificuldade em obter financiamento para capital de giro e/ou investimentos fixos nas condições formais.\nAs condições para obtenção do empréstimo são aquelas existentes para o serviço 'Banco do Povo Paulista - Programa de Microcrédito Popular', oferecido pela Secretaria do Emprego e Relações do Trabalho e que integra o Portal do Cidadão (www.cidadao.sp.gov.br/servicos_final.php?cod_servico=1527).\nInformações sobre o serviço de microcrédito podem ser obtidas na página dedicada ao serviço na Internet (www.bancodopovo.sp.gov.br/).",
+                "url": "",
+                "email": "rnovais@sp.gov.br",
+                "phone": "(11) 32417303"
+            },
+            {
+                "title": "Banco do Povo Paulista - Programa de Microcrédito Popular - Secretaria do Emprego e Relações do Trabalho",
+                "description": "O Banco do Povo Paulista é o Programa de Microcrédito Produtivo do Governo de São Paulo, executado pela Secretaria do Emprego e Relações do Trabalho, em parceria com prefeituras municipais.\nO programa é voltado à concessão de empréstimos para empreendedores formais ou informais, cooperativas e associações de produção formalmente constituídas, visando promover geração de emprego e renda. \nOs interessados em obter empréstimos no programa de microcrédito deverão apresentar seu pedido em uma unidade do Banco do Povo no município onde está o seu empreendimento. A relação de endereços pode ser verificada no sítio www.bancodopovo.sp.gov.br.",
+                "url": "",
+                "email": "",
+                "phone": "(11) 3241-7301\n(11) 3241-7321\n(11) 3241-7325"
+            },
+            {
+                "title": "Linhas de Financiamentos para Projetos de Investimentos - Desenvolve SP - Agência de Desenvolvimento Paulista",
+                "description": "A Desenvolve SP – Agência de Desenvolvimento Paulista é uma instituição financeira do governo do Estado de São Paulo que promove, desde 2009, o desenvolvimento sustentável do Estado por meio de operações de crédito consciente e de longo prazo para as pequenas e médias empresas paulistas.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304365",
+                "email": "atendimento@desenvolvesp.com.br",
+                "phone": "(11) 3123-0464"
+            },
+            {
+                "title": "Linhas de Financiamentos para Máquinas e Equipamentos - Desenvolve SP - Agência de Desenvolvimento Paulista",
+                "description": "A Desenvolve SP – Agência de Desenvolvimento Paulista é uma instituição financeira do governo do Estado de São Paulo que promove, desde 2009, o desenvolvimento sustentável do Estado por meio de operações de crédito consciente e de longo prazo para as pequenas e médias empresas paulistas.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304368",
+                "email": "atendimento@desenvolvesp.com.br",
+                "phone": "(11) 3123-0464"
+            },
+            {
+                "title": "Linhas de Financiamento para Capital de Giro - Desenvolve SP - Agência de Desenvolvimento Paulista",
+                "description": "A Desenvolve SP – Agência de Desenvolvimento Paulista é uma instituição financeira do governo do Estado de São Paulo que promove, desde 2009, o desenvolvimento sustentável do Estado por meio de operações de crédito consciente e de longo prazo para as pequenas e médias empresas paulistas.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304369",
+                "email": "atendimento@desenvolvesp.com.br",
+                "phone": "(11) 3123-0464"
+            },
+            {
+                "title": "Simulador de Financiamentos - Desenvolve SP - Agência de Desenvolvimento Paulista",
+                "description": "A Desenvolve SP – Agência de Desenvolvimento Paulista é uma instituição financeira do governo do Estado de São Paulo que promove, desde 2009, o desenvolvimento sustentável do Estado por meio de operações de crédito consciente e de longo prazo para as pequenas e médias empresas paulistas.\nA Agência disponibiliza em seu site o simulador de financiamentos, pelo qual são calculados os valores das prestações através de informações referentes a categoria e linha de financiamento, valor, prazo e carência que melhor atende sua necessidade, para seu negócio crescer ainda mais.\nPara informações e dúvidas sobre os produtos e serviços basta entrar em contato com o Atendimento da Desenvolve SP pelo email: atendimento@desenvolvesp.com.br ou pelo telefone: (11) 3123-0464.\nO atendimento é realizado de segunda a sexta-feira, das 09h às 18 horas.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304372",
+                "email": "atendimento@desenvolvesp.com.br",
+                "phone": "(11) 3123-0464"
+            },
+            {
+                "title": "Crédito Rural Assistido - Elaboração de Proposta de Financiamento e Visitas de Assistência Técnica - Coordenadoria de Assistência Técnica Integral - CATI",
+                "description": "Quando uma operação de crédito rural requer acompanhamento de assistência técnica, este serviço pode ser feito através da CATI. O crédito rural assistido proporciona mais agilidade em sua obtenção, dada a parceria entre a CATI e o agente financeiro, além de melhores resultados para as atividades agropecuárias, em função das visitas de assistência técnica.\nMaiores informações diretamente nas agências do Banco do Brasil e nas Casas da Agricultura ou nos Escritórios Regionais de Desenvolvimento Rural (EDR’s) da CATI. Os telefones e endereços da CATI encontram-se disponíveis no site: www.cati.sp.gov.br.",
+                "url": "",
+                "email": "",
+                "phone": ""
+            }
+        ]
+    },
+    {
+        "title": "Defesa civil",
+        "services": [
+            {
+                "title": "Ações Educativas - Defesa Civil",
+                "description": "Desenvolvimento da percepção de risco na comunidade, realizando eventos, campanhas educativas adequadas às características de cada comunidade, veiculação em mídia, palestras e distribuição de material informativo por meio dos núcleos de Defesa Civil, escolas, associações comunitárias, ONGs e coordenadorias municipais de Defesa Civil e Seminários.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=1334",
+                "email": "defesacivil@sp.gov.br",
+                "phone": ""
+            }
+        ]
+    },
+    {
+        "title": "Direitos e proteção do consumidor",
+        "services": [
+            {
+                "title": "Atendimento ao Consumidor - Procon",
+                "description": "Serviço de atendimento e orientações gerais sobre os direitos e deveres dos consumidores nas relações de consumo.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303027",
+                "email": "",
+                "phone": "151\n(11) 3824-0717"
+            },
+            {
+                "title": "Acolhimento de Informações com Vistas à Fiscalização - Procon",
+                "description": "Recebimento de informações para a apuração de irregularidades nas relações de consumo e que sejam passíveis de penalidades na esfera administrativa. O consumidor deve encaminhar as informações sobre a conduta do fornecedor comparecendo pessoalmente, enviando carta ou fax, ou ainda por telefone. Para dar início ao procedimento, é necessário o nome e endereço do estabelecimento. Além disso, se houve aquisição de produto ou serviço, a apresentação de recibo, nota fiscal ou qualquer documento que auxilie na comprovação dos fatos.\nInicialmente, os fatos serão registrados pelo setor de atendimento. As informações serão encaminhadas ao departamento responsável pelas fiscalizações. Os atos de fiscalização ocorrerão conforme análise final sobre o caso e a programação de suas atividades.\nÉ importante ressaltar que somente para as informações referentes ao fumo em área proibida (total ou parcialmente fechada), bebida alcoólica para menores  de 18 anos (fornecimento, oferta, venda, entrega ou permissão de consumo) ou sobre a não observação do cadastro de bloqueio de telemarketing, poderá ser utilizada a página do Procon na Internet.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303041",
+                "email": "",
+                "phone": "151"
+            },
+            {
+                "title": "Informações sobre Procons Municipais - Procon",
+                "description": "Informações sobre endereços dos Procons dos municípios do Estado de São Paulo que possuem convênio de cooperação técnica com o Procon de São Paulo. Os Procons municipais conveniados prestam serviço de orientação e atendimento às reclamações sobre violações de direito do consumidor.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303042",
+                "email": "",
+                "phone": "151"
+            },
+            {
+                "title": "Orientação a Empresas - Procon",
+                "description": "A Fundação Procon – SP coloca à disposição dos FORNECEDORES canais para orientação e esclarecimento de dúvidas sobre dispositivos da lei consumerista, com vistas a promover a educação e informação quanto aos seus direitos e deveres, bem como à melhoria do mercado de consumo, nos termos do artigo 4°, inciso IV, do CDC - Código de Defesa do Consumidor - Lei n° 8.078/90.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303046",
+                "email": "",
+                "phone": "(11) 3824-7046"
+            },
+            {
+                "title": "Informações Institucionais - Procon",
+                "description": "Informações sobre o histórico da defesa do consumidor no Procon/SP, objetivos, atribuições, legislação, formas de acesso e de atendimentoentre outras pertinentes às atividades e organização do Órgão. As informações gerais podem ser obtidas no site da Fundação e informações específicas devem ser solicitadas por escrito. Observe os serviços prestados pelo SIC - Serviço de Informação ao Cidadão.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303236",
+                "email": "",
+                "phone": "151"
+            },
+            {
+                "title": "Cadastro para Bloqueio de Ligações de Telemarketing - Procon",
+                "description": "Permite às pessoas físicas ou jurídicas cadastrarem, sem custo, no endereço eletrônico http://www.procon.sp.gov.br/BloqueioTelef, números de telefones fixos ou móveis, do Estado de São Paulo, que estiverem em seu nome, com o intuito de não receber contatos telefônicos que tenham por finalidade oferecer produtos ou serviços. Após 30 dias da inscrição no Cadastro, as empresas ficam proibidas de ligar, a não ser que tenham autorização por escrito do titular do telefone. No mesmo endereço eletrônico, encontra-se  disponível modelo de autorização.\nO titular da linha (pessoa física ou jurídica) poderá, além de bloquear ou desbloquear linhas telefônicas, registrar reclamação contra alguma empresa que tenha desrespeitado o bloqueio, no prazo máximo de 30 dias da ligação, informando o nome da empresa, data da ligação e, se possível, o nome do operador.\nAs empresas de telemarketing que desejarem efetuar contato com os usuários deverão inscrever-se em campo próprio, no mesmo endereço eletrônico, e consultar a relação de linhas para as quais não poderão ligar.\nAs empresas de outros estados também ficam proibidas de efetuar ligações para os números bloqueados e sujeitas às mesmas penalidades.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303939",
+                "email": "",
+                "phone": "151"
+            },
+            {
+                "title": "Acompanhamento de Processos, Cópias e Recursos - Procon",
+                "description": "São oferecidos os seguintes serviços:\n- Fornecimento de informações sobre o andamento das reclamações e dos autos de infração, prazos e procedimentos;\n- Concessão de vistas e cópias;\n- Expedição e entrega de certidões relacionadas aos processos oriundos das reclamações e autos de infração;\n- Recepção das defesas dos recursos dos autos de infração;\n- Recepção dos recursos das reclamações;\n- Expedição da cobrança das multas e inscrição dos débitos (multas dos autos de infração não pagas) na Dívida Ativa do Estado.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304380",
+                "email": "",
+                "phone": ""
+            }
+        ]
+    },
+    {
+        "title": "Documentos pessoais",
+        "services": [
+            {
+                "title": "Carteira de Identidade (RG) - Solicitação de Bloqueio - Dipol",
+                "description": "Permite efetuar bloqueio do RG, a partir da data do extravio ou da data de emissão do documento, por meio de boletim de ocorrência, obtido via Internet ou em Delegacia de Polícia, e apresentado nos Setores de Identificação do Estado de São Paulo. Caso o boletim de ocorrência versando sobre extravio seja lavrado via Internet, o bloqueio da carteira de identidade é realizado automaticamente.",
+                "url": "",
+                "email": "",
+                "phone": ""
+            },
+            {
+                "title": "Carteira de Identidade / RG - Emissão de 1ª Via - Dipol",
+                "description": "Emissão de 1ª via de número de registro geral (RG) de Carteira de Identidade para cidadãos brasileiros natos, brasileiros naturalizados, cidadãos de nacionalidade portuguesa, brasileiras casadas no exterior e filhos de brasileiros nascidos no exterior.",
+                "url": "",
+                "email": "",
+                "phone": ""
+            },
+            {
+                "title": "Carteira de Identidade / RG - Emissão de 2ª Via - Dipol",
+                "description": "Emissão de 2ª via de Carteira de Identidade, popularmente conhecido como 'R.G.', para cidadãos brasileiros natos, brasileiros naturalizados, cidadãos de nacionalidade portuguesa, brasileiras casadas no exterior e filhos de brasileiros nascidos no exterior.",
+                "url": "",
+                "email": "",
+                "phone": ""
+            },
+            {
+                "title": "Informações sobre os Serviços Oferecidos - Programa Poupatempo",
+                "description": "Através do Guia de Informação sobre os Serviços Públicos, o cidadão consegue obter as informações sobre todos serviços oferecidos no Poupatempo.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303006",
+                "email": "",
+                "phone": "0800 7723633"
+            },
+            {
+                "title": "Orientação Presencial ao Cidadão - Programa Poupatempo",
+                "description": "Nos Postos Poupatempo há equipe de orientação e balcões de informação organizados pela Coordenação de Atendimento da Administração de cada Posto Poupatempo, que proporcionam ao cidadão que se dirige ao Poupatempo a facilidade de ser orientado sobre os locais internos e os serviços oferecidos no posto, bem como informações gerais sobre os serviços oferecidos no Poupatempo, incluíndo o e-poupatempo.",
+                "url": "",
+                "email": "",
+                "phone": ""
+            },
+            {
+                "title": "Concentração de Serviços Públicos – Programa Poupatempo",
+                "description": "Disponibilização, em um mesmo local, de serviços públicos prestados por vários órgãos públicos, como empresas, concessionárias, secretarias e outras instituições.",
+                "url": "",
+                "email": "",
+                "phone": "0800 7723633"
+            },
+            {
+                "title": "Centro Emissor de Identificação - Departamento de Polícia Judiciária de São Paulo Interior - Deinter 5 - São José do Rio Preto",
+                "description": "Os serviços prestados pelo Centro Emissor de Identificação são:\n- Expedição de Cédulas de Identidade – RG (1ª e 2ª vias);\n- Expedição de Atestados de Antecedentes Criminais;\n- Recebimento e encaminhamento para São Paulo de: Certidões de Prontuários, Planilhas de BICs e Certidões de Óbitos.",
+                "url": "",
+                "email": "",
+                "phone": ""
+            },
+            {
+                "title": "E-poupatempo",
+                "description": "Sala de atendimento, com acesso à Internet, para realização de serviços públicos eletrônicos das diversas esferas de Governo.\nNesse espaço, o cidadão é incentivado a realizar o serviço desejado, contando com a ajuda de atendentes treinados, tanto na utilização dos microcomputadores, como nos procedimentos para realização do serviço.\nDisponível em todos postos Poupatempo.",
+                "url": "",
+                "email": "",
+                "phone": ""
+            },
+            {
+                "title": "Certidão de Prontuário - Instituto de Identificação 'Ricardo Gumbleton Daunt' - IIRGD / Departamento de Inteligência da Polícia Civil - Dipol",
+                "description": "Permite obter, exclusivamente junto ao Instituto de Identificação 'Ricardo Gumbleton Daunt' (IIRGD), do Departamento de Inteligência da Polícia Civil - Dipol, certidões de prontuários de cidadãos que possuem número de Registro Geral expedido no Estado de São Paulo.\nAs certidões destinam-se a fazer prova de atividade profissional, de dados qualificativos, local de nascimento, características físicas e, em alguns casos, da existência ou não de antecedentes criminais em nome do interessado. São documentos exigidos pelo INSS para efeito de concessão de aposentadoria ou pensão, por Cartórios de Registros de Imóveis, por Universidades a fim de atribuir vagas a alunos pelo critério de cotas raciais, sem prejuízo de outras finalidades declaradas pelo interessado no momento em que requer a expedição do documento. Devem ser requeridas pelo próprio interessado.  Caso o titular do RG tenha falecido, pode ser requerida certidão por sucessor (filhos ou netos) ou conjuge sobrevivente, se casado, mediante apresentação da certidão de óbito do extinto e prova da relação de parentesco(certidão de nascimento e/ou casamento); ou ainda por procurador do ineressado, do extinto ou de quem tenha direito de fazer o pedido.",
+                "url": "",
+                "email": "",
+                "phone": ""
+            }
+        ]
+    },
+    {
+        "title": "Emergências",
+        "services": [
+            {
+                "title": "Atendimento a Emergências Radiológicas e Nucleares – Instituto de Pesquisas Energéticas e Nucleares - Ipen",
+                "description": "O Grupo de Atendimento a Emergências Radiológicas e Nucleares, do Serviço de Radioproteção, atua em situações reais e potenciais envolvendo materiais radioativos ou fontes de radiação no Estado de São Paulo. É mantida uma equipe técnica, em regime de sobreaviso, para avaliação e resposta inicial às situações de emergências radiológicas ou nucleares.",
+                "url": "",
+                "email": "dlrodri@ipen.br",
+                "phone": "(11) 3133-9000\n(11) 3133-9685\n(11) 9982-3860"
+            },
+            {
+                "title": "Atendimento a Queimados - Unidade de Emergência do Hospital das Clínicas - FMRP/USP",
+                "description": "Atendimento a casos mais complexos e graves de queimaduras.",
+                "url": "",
+                "email": "",
+                "phone": ""
+            },
+            {
+                "title": "Atendimento de Urgência e Emergência - Unidade de Emergência do Hospital das Clínicas - FMRP/USP",
+                "description": "O Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto - USP conta com a unidade de emergência que funciona em regime de plantão permanente, oferecendo cobertura às urgências em geral para todas as especialidades médicas.",
+                "url": "",
+                "email": "",
+                "phone": ""
+            },
+            {
+                "title": "Atendimento de Emergências 193 – Corpo de Bombeiros",
+                "description": "O Corpo de Bombeiros realiza serviços de proteção e salvamento de vidas humanas e bens materiais; prevenção e de extinção de incêndios; busca e salvamento; socorro em casos de afogamento, inundações, desabamentos, catástrofes e calamidades públicas.",
+                "url": "",
+                "email": "",
+                "phone": "193"
+            },
+            {
+                "title": "Informações sobre Rodovias do DER - Central de Informações e Operações.",
+                "description": "Operando 24 horas por dia, a COI atende aos usuários e presta informações sobre condições de tráfego, localização de pedágios, balanças e pontos de referência, condições climáticas, itinerários, tarifas de pedágio, além de proceder em tempo real ao monitoramento das principais rodovias através de câmeras, analisadores de tráfego e medidores de temperatura.\nNo caso de solicitação de socorro na rodovia, a COI repassa a ocorrência ao CCO - Centro de Controle Operacional - da UBA que administra a rodovia, sendo acionada a equipe operacional para dar o atendimento ou fazer a intervenção necessária no local.\nPara solicitar ajuda, informações ou em caso de emergência, os usuários das rodovias operadas pelo DER devem ligar: 0800 055 5510.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=936",
+                "email": "",
+                "phone": "0800 055 55 10"
+            },
+            {
+                "title": "Assistência Emergencial à População Vitimada por Desastres - Defesa Civil",
+                "description": "Auxílio à população vitimada por enchentes, vendavais, deslizamentos de terra, acidentes com produtos perigosos, por meio da articulação e coordenação dos recursos dos órgãos públicos e privados para ações de socorro. Liberação de cestas básicas, cobertores, colchonetes, lonas plásticas e materiais de limpeza e higiene pessoal.",
+                "url": "",
+                "email": "defesacivil@sp.gov.br",
+                "phone": "199\n(11) 2193-8888\n(11) 2193-8385"
+            },
+            {
+                "title": "Serviço de Ajuda ao Usuário nas Rodovias Administradas pelo DER",
+                "description": "Prestação de socorro médico e auxílio mecânico ao usuário, com a remoção de veículos que apresentam problemas mecânicos e elétricos, até local credenciado. Também, realiza atendimento eventual de pequenos reparos mecânicos. O serviço é prestado nas rodovias atendidas pelas Unidades Básicas de Atendimento - UBAs. Pode ser solicitado pelo telefone 0800 055 55 10.",
+                "url": "",
+                "email": "",
+                "phone": "0800 055 55 10"
+            },
+            {
+                "title": "Atendimento de Acidentes de Exposição Ocupacional - Aops - Hospital das Clínicas - FMRP/USP",
+                "description": "Atendimento a trabalhadores da saúde expostos acidentalmente a material contaminado. Atendimento de emergência com equipe de plantonistas que se revezam 24 horas do dia. Pelo alto risco a que estão expostos, os profissionais devem procurar atendimento até uma hora após o acidente, para início imediato do tratamento.",
+                "url": "",
+                "email": "",
+                "phone": ""
+            },
+            {
+                "title": "Serviço de Ajuda ao Usuário - Concessionária Colinas",
+                "description": "Atendimento 24h aos usuários das rodovias da região sudeste do Estado de São Paulo (Rodovia Santos Dumont, SP-075 - Sorocaba/Campinas; Rodovia Dom Gabriel Paulino Bueno Couto/Marechal Rondon, SP-300 - Jundiaí/Tietê; Rodovia Castello Branco SP-280 - Itu/Tatuí; Rodovia Fausto Santomauro/Antonio Romano Schincariol, SP-127 - Rio Claro/Tatuí) SPI-102/300 - Itu - km 0 ao 7,9 – Contorno de Itu. Dispõe de ambulâncias para atendimento pré-hospitalar em caso de acidente, guinchos, veículos de inspeção, telefone de emergência (call box) e central de atendimento 0800.",
+                "url": "",
+                "email": "ouvidoria@colinasnet.com.br",
+                "phone": "0800 70 35 080"
+            },
+            {
+                "title": "Controle de Intoxicações - Unidade de Emergência do Hospital das Clínicas - FMRP/USP",
+                "description": "Assistência médica aos pacientes afetados por intoxicações ou que sofreram acidentes por animais peçonhentos e que necessitem de tratamento especializado; atendimento e orientação, via telefone ou pessoalmente, sobre intoxicações, 24 horas por dia.",
+                "url": "",
+                "email": "",
+                "phone": ""
+            },
+            {
+                "title": "Atendimento a Emergências 190 - Polícia Militar",
+                "description": "Atendimento a emergências informadas pela população.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=2148",
+                "email": "copom@policiamilitar.sp.gov.br",
+                "phone": "190\n11-33277000"
+            },
+            {
+                "title": "Disque-PM - Polícia Militar do Estado de São Paulo",
+                "description": "Integrado à doutrina do Policiamento Comunitário, é um meio para que o cidadão possa pedir orientações, fazer sugestões, dar opiniões e prestar informações que possam auxiliar o policiamento ostensivo, elogiando-o ou criticando-o. Destina-se a manter aberto um canal de comunicação entre o povo e a Polícia Militar, podendo ser acessado de qualquer ponto do Estado de São Paulo. Sua característica básica é a de receber as ligações anonimamente, através do telefone 0800-0555190, a qualquer hora do dia ou da noite. A informação é criptografada e tratada com sigilo. Sua origem será de conhecimento restrito apenas do Sistema Disque-PM.",
+                "url": "",
+                "email": "",
+                "phone": ""
+            },
+            {
+                "title": "Pronto-Socorro Cardiológico - Instituto Dante Pazzanese de Cardiologia",
+                "description": "Pronto-atendimento especializado em cardiologia e doenças do aparelho circulatório. Funcionamento 24 horas com médicos especialistas e equipe altamente treinada.",
+                "url": "",
+                "email": "",
+                "phone": ""
+            },
+            {
+                "title": "Pronto-Socorro e Hospital Geral de Vila Penteado",
+                "description": "Atendimento às emergências médicas, clínicas e cirúrgicas nas seguintes especialidades: clínica médica; pediatria; clínica cirurgia; ginecologia e obstetrícia; referência em queimados, traumatologia ortopédica e buco-maxilo-facial; unidade neonatal.",
+                "url": "",
+                "email": "",
+                "phone": ""
+            },
+            {
+                "title": "Hospital Vital Brazil - Tratamento de Acidentados por Animais Peçonhentos - Instituto Butantan",
+                "description": "O Hospital Vital Brasil, no Instituto Butantan, atende gratuitamente acidentados por animais peçonhentos e presta orientação telefônica aos profissionais de saúde. Funciona 24 horas por dia e dispõe de 10 leitos para atendimento de pacientes picados por animais peçonhentos. Aqueles que necessitam de soroterapia são internados e acompanhados pela equipe especializada, enquanto um serviço de pronto-atendimento funciona para esclarecimento diagnóstico e consultas ambulatoriais.",
+                "url": "",
+                "email": "hospital@butantan.gov.br",
+                "phone": "(11) 2627-9529\n(11) 2627-9528"
+            },
+            {
+                "title": "Atendimento Médico Voltado à Raiva Humana - Instituto Pasteur",
+                "description": "Prestação de serviços para prevenção, tratamento e pesquisa da raiva.",
+                "url": "",
+                "email": "pasteur@pasteur.saude.sp.gov.br",
+                "phone": "11 3145-3145"
+            },
+            {
+                "title": "Hospital Regional de Ferraz de Vasconcelos Dr. Osiris Florindo Coelho",
+                "description": "Atendimento médico-hospitalar de urgência e emergência em buco-maxilo, clínica médica, pediatria, ortopedia, cirurgia, cirurgião dentista, ginecologia-obstetrícia e psiquiatria.\nOferece internação nas áreas de clínica médica, clínica cirúrgica, maternidade, psiquiatria, pediatria, CTI e UTI (adulto).\nPossui apoio diagnóstico e terapêutico (laboratório de análises clínicas - hematologia, bioquímica, urinálise, sorologia, imunologia, microbiologia, anatomia patológica e biologia moelcular), rádio-diagnóstico (raio-X simples, com laudo, com contraste, tomografia computadorizada contrastada e com sedação) e agência transfusional.\nMétodos gráficos: ecocardiograma, mamografia. teste ergométrico (somente para os pacientes do nosso ambulatório), eletroneurmiografia, espirometria (prova de função pulmonar), Holter 24 horas, USG morfológivo, USG obstétrico com doppler (somente para pacientes com gestação de alto rsico), Ultrassonagrafia: músculo esquelético, doppler vias venosa, pélvico, obstétrico, transvaginal, mama, prostata, transretal, abdominal, vias urinárias, tireóide, punção de tireóide, colonoscopia, endoscopia, laringoscopia, nasolaringosopia (somente para pacientes do ambulatório,  broncoscopia (somente para paciente do ambulatório e internados).",
+                "url": "",
+                "email": "dirtechospferraz@ig.com.br",
+                "phone": ""
+            },
+            {
+                "title": "Serviço de Ajuda ao Usuário - Centrovias Sistemas Rodoviários",
+                "description": "Atendimento 24 horas aos usuários das rodovias da região de São Carlos e Bauru (SP-310 - Cordeirópolis/São Carlos e SP-225 Bauru/Itirapina). Dispõe de ambulância resgate, guincho, veículos de inspeção, telefones de emergência a cada quilômetro e teleatedimento (0800 17 89 98).\nNa página da Centrovias na Internet (www.centrovias.com.br), é disponibilizado um mapa interativo que possibilita ao usuário/cidadão obter informações sobre: localização das praças de pedágio, dos postos de pesagem, das bases operacionais, valor das tarifas e outros. É possível, também, conhecer o trabalho da concessionária clicando em Nosso Trabalho.",
+                "url": "",
+                "email": "centrovias@centrovias.com.br // ouvidoria@centrovias.com.br",
+                "phone": "0800 17 89 98\n(16) 3363-8300"
+            },
+            {
+                "title": "Serviço de Atendimento ao Usuário -CCR SPVias Rodovias Integradas do Oeste",
+                "description": "Prestação de serviços em operação de rodovias.",
+                "url": "",
+                "email": "",
+                "phone": ""
+            },
+            {
+                "title": "Atendimento ao Consumidor - CPFL Santa Cruz",
+                "description": "Disponibilização de rol de serviços destinados ao atendimento das necessidades dos consumidores.\nOs serviços podem ser acessados mediante a utilização da página da empresa na Internet (http://www.cpfl.com.br/santacruz), telefone exclusivamente dedicado a atendimento de clientes (0800 77 22 196), e-mail (atendimento@cpflsantacruz.com.br), na rede de agências de atendimento próprias, bem como nas redes de postos credenciados “CPFL Total” e também através de Agências de Atendimento conveniadas Rede Fácil (relação disponível através do telefone 0800-7722196).\nMunicípios Atendidos: Pirajú, Timburi, Tejupá, Sarutaiá, Taguaí, Taquarituba, Itaí, Paranapanema, Santa Cruz do Rio Pardo, Ipaussu, Bernardino de Campos, São Pedro do Turvo, Espírito Santo do Turvo, Ubirajara, Ourinhos, Chavantes, Canitar, Avaré, Manduri, Cerqueira César, Águas de Santa Bárbara, Arandu, Iaras, Óleo, Ribeirão Claro/PR, Barra do Jacaré/PR e Jacarezinho/PR.\nOs clientes portadores de deficiência auditiva e de fala podem acessar o sistema por meio do telefone 0800 774 41 20, a partir de telefones adaptados, ou via Chat.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304225",
+                "email": "atendimento@cpflsantacruz.com.br",
+                "phone": "0800 772 21 96"
+            }
+        ]
+    },
+    {
+        "title": "Esportes",
+        "services": [
+            {
+                "title": "Conjunto Desportivo Constâncio Vaz Guimarães - Coordenadoria de Esporte e Lazer",
+                "description": "Conjunto Esportivo onde se situam as seguintes unidades para a prática de esportes destinada aos usuários em geral: Ginásio Geraldo José de Almeida - Ginásio Ibirapuera; Estádio Ícaro de Castro Mello - Pista de Atletismo; Conjunto Aquático Caio Pompeu de Toledo - Piscinas; Ginásio Poliesportivo Mauro Pinheiro.",
+                "url": "",
+                "email": "ginasioibirapuera@ig.com.br",
+                "phone": "(11) 3887-3500\n(11) 3889-0558"
+            },
+            {
+                "title": "Conjunto Desportivo 'Baby Barioni' - Coordenadoria de Esporte e Lazer",
+                "description": "Serviços prestados diretamente aos cidadãos de todo o território nacional e entidades de caráter civil. Dentre estes se destacam:\n1) Cursos – Aulas oferecidas à população do estado, com período de extensão anual, direcionados às áreas de esportes, lazer, recreação e artes, com faixa etária a partir dos 05 anos. São oferecidos cursos de natação e hidroginástica (área aquática); condicionamento físico, musculação, biodança e alongamento (área fitness); futsal masculino, futsal feminino, handebol, basquetebol, capoeira, tae-kwon-do, kickboxing, jiu-Jitsu, contato livre, Muay-Thai (área esporte); pintura sobre tela, arte em sementes e dança de salão (área cultural). Essas atividades ocorrem duas vezes por semana e a vaga ao cidadão é garantida através de sorteio no início de cada ano letivo. No andamento dos cursos, a cada 04 faltas consecutivas ou seis alternadas, o aluno perde o direito de frequentar a aula, possibilitando vaga aos inscritos em fila de espera. São firmadas parcerias com entidades, para fins exclusivos de cessão de professores para ministrar alguns cursos, entre elas: Secretaria de Estado da Cultura, Federação Paulista de Handebol, Confederação Brasileira de Kickboxing, Federação Paulista de Basquete em Cadeira de Rodas, Liga Paulista de Futebol Feminino, Coordenadoria da Juventude-SEJEL, ABCMI - Associação Brasileira da Melhor Idade e Prefeitura do Município de São Paulo.\n2) Cessão de uso do espaço público – Os espaços devem ser previamente solicitados para eventos esportivos e culturais através de Oficios. Podem ser solicitadas as cessões dos seguintes espaços: ginásio poliesportivo, quadra poliesportiva, uma piscina semi-olímpica coberta, uma piscina semi-olímpica, uma piscina descoberta infantil, sala da melhor idade, sala de capoeira, sala de condicionamento físico, sala de lutas, sala de musculação, sala de jogos, sala de pintura.\n3) Sala de Leitura / Acessa São Paulo – Sala equipada com computadores para acesso a Internet gratuito por período de 30 minutos (podendo se estender).\nConta ainda com o Prédio das Federações que abriga diversas entidades do âmbito esportivo e prédio dos alojamentos.",
+                "url": "",
+                "email": "",
+                "phone": "(11) 3673-5133\n(11) 3864-1810"
+            },
+            {
+                "title": "Orientação à Prática de Atividades Físicas - Polícia Militar",
+                "description": "Prática de atividades físicas orientadas por profissionais de educação física nas modalidades condicionamento físico, natação e musculação. Outras modalidades como tênis, boxe, judô, kung-fu e dança de salão poderão estar disponíveis, oportunamente. Maiores informações sobre matrícula, mensalidades e horários podem ser obtidas junto ao setor de atendimento ao público.",
+                "url": "",
+                "email": "eefp5@policiamilitar.sp.gov.br",
+                "phone": "11 3229-2143\n11 3229-3622"
+            },
+            {
+                "title": "Vila Olímpica Mário Covas - Coordenadoria de Esporte e Lazer",
+                "description": "Visando incentivar a prática esportiva entre crianças, jovens e adultos, o parque oferece cursos para todas as idades, nas seguintes modalidades: kickboxing, tênis de mesa, karatê, boxe, judô, ginástica aeróbica e ballet. Além disso, o parque é utilizado para a recreação dos usuários, que podem usufruir de uma área verde com aproximadamente 200.000m², 5 quadras poliesportivas, 2 quadras de tênis, 1 playground, 3 salões . A Secretaria de Esporte, Lazer e Juventude, utiliza a grande área do parque para realização de eventos, com a participação da comunidade.",
+                "url": "",
+                "email": "vilaolimpica@ymail.com",
+                "phone": "(11) 3785-4292"
+            },
+            {
+                "title": "Orientação à Implantação de Núcleos Desportivos - Programa Esporte Social - Coordenadoria de Esporte e Lazer",
+                "description": "Orientação na implantação de núcleos desportivos destinados à crianças, adolescentes, idosos e portadores de deficiências.",
+                "url": "",
+                "email": "fserrao@sp.gov.br",
+                "phone": "(11) 3241-4507"
+            }
+        ]
+    },
+    {
+        "title": "Gás natural",
+        "services": [
+            {
+                "title": "Ouvidoria - Comgás",
+                "description": "Atendimento de reclamações, críticas e sugestões de clientes da Comgás. A ouvidoria deve ser procurada nos casos em que não houver atendimento, resposta ou solução para o problema registrado na Comgás, em 24 horas.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=2135",
+                "email": "",
+                "phone": "08000 161667"
+            },
+            {
+                "title": "Ouvidoria - Gás Brasiliano Distribuidora",
+                "description": "Atendimento a reclamações, críticas, sugestões de clientes e usuários, nas situações em que não houver resposta ou solução para o problema comunicado e registrado nos contatos realizados com órgãos da empresa.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=2318",
+                "email": "",
+                "phone": "0800 7736100"
+            },
+            {
+                "title": "Registro e Renovação de Concessão para Instalador de Gás Natural Veicular - Ipem/SP",
+                "description": "Registro e renovação de concessão para instalador. Disponibilização de relação de oficinas instaladoras e legislação.",
+                "url": "",
+                "email": "inspecao-ipem@ipem.sp.gov.br",
+                "phone": "(11) 3581-2445"
+            },
+            {
+                "title": "Atendimento ao Consumidor - Gás Natural Fenosa",
+                "description": "Disponibilização de rol de serviços destinados ao atendimento das necessidades dos consumidores.\nOs serviços podem ser acessados mediante a utilização da página da empresa na Internet (www.gasnaturalfenosa.com.br), email (sacgnsps@gasnatural.com) ou telefone exclusivamente dedicado a atendimento de clientes (0800 77 22 348). Para comunicação de emergência, deve ser utilizado o telefone 0800 770 52 52. A Gas Natural Fenosa oferece um canal de comunicação especial e gratuito a deficientes auditivos e de fala, com acesso pelo 0800 031 0234.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304217",
+                "email": "sacgnsps@gasnatural.com",
+                "phone": "0800 77 22 348\n0800 770 52 52"
+            },
+            {
+                "title": "Atendimento ao Consumidor - Gás Brasiliano Distribuidora",
+                "description": "Disponibilização de rol de serviços destinados ao atendimento das necessidades dos consumidores.\nOs serviços podem ser acessados mediante a utilização da página da empresa na Internet (http://www.gasbrasiliano.com.br/servicos/servico.asp) ou telefone exclusivamente dedicado a atendimento de clientes (0800 773 60 99).",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304218",
+                "email": "",
+                "phone": "0800 773 60 99"
+            },
+            {
+                "title": "Atendimento ao Consumidor - Gás Brasiliano Distribuidora",
+                "description": "Disponibilização de rol de serviços destinados ao atendimento das necessidades dos consumidores.\nOs serviços podem ser acessados mediante a utilização da página da empresa na Internet (http://www.gasbrasiliano.com.br/servicos/servico.asp) ou telefone exclusivamente dedicado a atendimento de clientes (0800 773 60 99).",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304218",
+                "email": "",
+                "phone": "0800 773 60 99"
+            }
+        ]
+    },
+    {
+        "title": "Inclusão Digital",
+        "services": [
+            {
+                "title": "Telecentro para Idosos - Acesso à Internet - Instituto Paulista de Geriatria e Gerontologia",
+                "description": "O objetivo do Acesso à Internet é inserir a Terceira Idade na era da Informática para adquirir novos conhecimentos, cultura e lazer. Os idosos aprendem a utilizar a Internet para fazer pesquisas, enviar e-mail, acessar salas de bate-papo, etc... Há uma rotatividade de usuários mantendo a demanda estável, sendo que a permanência mínima é de uma hora para casa usuário.\nHá tambem um curso básico de Informática, realizado em 10 dias seguidos, com duração de 2 horas. Para participar é necessário fazer inscrição, pois as vagas são limitadas.",
+                "url": "",
+                "email": "novaprogresso@acessa.sp.gov.br",
+                "phone": "(11) 2030-4007"
+            },
+            {
+                "title": "Acesso Gratuito à Internet – Acessa São Paulo - Secretaria de Gestão Pública",
+                "description": "Oferece acesso gratuito à Internet, mediante rede de Postos de Atendimento espalhados em todo o Estado de São Paulo.\nPara inscrição e utilização do serviço, devem ser obedecidas as seguintes regras:\n- o cadastro é obrigatório;\n- menores de 16 anos devem se cadastrar na presença de um responsável;\n- menores de 11 anos devem utilizar o posto acompanhados do responsável;\n- idosos, gestantes e deficientes físicos têm atendimento preferencial;\n- cada usuário tem direito a 30 minutos;\n- é permitido o uso mais de uma vez por dia;\n- não é permitido alterar as configurações do computador;\n- utilização de CDs ou disquetes somente com autorização do monitor;\n- impressão permitida somente para serviços de utilidade pública e currículos.",
+                "url": "",
+                "email": "acessa@sp.gov.br",
+                "phone": "(11) 3218-5986"
+            },
+            {
+                "title": "Rede CIM - Célula de Inovação do Município - Cepam",
+                "description": "Rede social na internet que promove a articulação, comunicação, troca de conhecimento de pessoas interessadas em questões municipais. Trata-se de um ambiente aberto, colaborativo, gratuito e participativo, em que debates são promovidos livremente pelos usuários e questões são discutidas com o apoio técnico do Cepam.\nA Rede CIM é baseada na 'Web 2.0', e utiliza conceitos de 'Governo 2.0', na relação entre governos e sociedade, por meio da Internet.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304111",
+                "email": "",
+                "phone": ""
+            }
+        ]
+    },
+    {
+        "title": "Informações físico-territoriais",
+        "services": [
+            {
+                "title": "Consulta de Documentação com Informações Técnicas, Jurídicas, Institucionais, Socioeconômicas e Físico-Territoriais das Regiões Metropolitanas do Estado de São Paulo – Emplasa",
+                "description": "Por meio da Biblioteca Virtual, é possívl acessar informações técnicas do acervo bibliográfico da Emplasa, que é especializado  em planejamento metropolitano no Estado de São Paulo, no Brasil e nas principais metrópoles do mundo. Compõe-se de livros, revistas, teses etc. e pela produção técnica da empresa de 1975 até o momento, a qual está disponível para download.\nEstudos específicos relacionados a informações digitalizadas de uso do solo e indicadores socioeconômicos, podem ser elaborados para os municípios das Regiões Metropolitanas do Estado.\nÉ possível também, conhecer o Catálogo Eletrônico dos projetos técnicos e a Filmoteca.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303781",
+                "email": "ouvidoria@emplasa.sp.gov.br",
+                "phone": "(11) 3293-5487\n(11) 3293-5490"
+            },
+            {
+                "title": "Informações Cartográficas – AGEM",
+                "description": "Através do Sistema de Informações Cartográficas, é possível adquirir cartas topográficas e mapas delas derivados, regionais e municipais, que constituem as bases sobre as quais se operacionalizaram levantamentos, cujos resultados se apresentam numa abordagem homogênea e articulada do território da Região Metropolitana da Baixada Santista - RMBS.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303782",
+                "email": "scmbs@agem.sp.gov.br",
+                "phone": "(13) 3202-7000\n(13) 3223-9070"
+            },
+            {
+                "title": "Disponibilização de Bases de Dados, Conhecimento e Comunicações do Sistema de Gerenciamento de Recursos Hídricos - Coordenadoria de Recursos Hídricos",
+                "description": "Permite acesso às bases de consultas de dados, comunicações e conhecimento acumulado, tendo por objetivo fornecer aos usuários a divulgação de informações específicas da Coordenadoria de Recursos Hídricos e dos Comitês de Bacias Hidrográficas que compõe o Sistema Integrado de Gerenciamento de Recursos Hídricos no Estado de São Paulo.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303869",
+                "email": "contato.crhi@gmail.com",
+                "phone": "3218-5979"
+            },
+            {
+                "title": "Serviço de Informações - IGC",
+                "description": "Atendimento a prefeituras, bem como ao público em geral, tendo em vista o fornecimento de informações sobre diversos aspectos dos trabalhos desenvolvidos pelos Instituto Geográfico e Cartográfico, como esclarecimentos sobre topônimos e legislação, cópias de mapas e outros.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304122",
+                "email": "igc@planejamento.sp.gov.br",
+                "phone": "11 33204414"
+            }
+        ]
+    },
+    {
+        "title": "Informações político-institucionais",
+        "services": [
+            {
+                "title": "Informações sobre Assuntos Acadêmicos - Universidade Estadual de Campinas - Unicamp",
+                "description": "Serviço de informações, via web, à comunidade universitária, aos que pretendem ingressar na Unicamp ou àqueles que têm dúvidas sobre assuntos acadêmicos (ingresso na Unicamp na condição de aluno especial, transferência de outras instituições de ensino superior, revalidação de diploma estrangeiro, etc). Disponibilização de publicações como o Catálogo de Cursos da Universidade e o Manual do Aluno, entre outras.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303193",
+                "email": "dac@unicamp.br",
+                "phone": "(19) 3521-6403\n(19) 3521-6422\n(19) 3521-6411"
+            },
+            {
+                "title": "Informações sobre o Processo Legislativo – Assembleia Legislativa do Estado de São Paulo",
+                "description": "Permite o acesso a informações sobre as proposições que tramitam e tramitaram no Legislativo Paulista, à íntegra das Sessões Plenárias (desde 1999), bem como sobre votações no Plenário, Ordens do Dia ou Pauta (desde 2004). É possível acessar a íntegra de projetos de lei, andamentos de proposições, pareceres, emendas e outros.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303641",
+                "email": "",
+                "phone": "(11) 3051-5539\n(11) 3886-6814\n(11) 3886-6815"
+            },
+            {
+                "title": "Informações sobre a Assembleia Legislativa do Estado de São Paulo",
+                "description": "Disponibilização das seguintes informações:\n- Informação referente ao legislativo, atividades desenvolvidas (agenda da Casa), informação sobre autoridades de âmbito municipal, estadual e federal;\n- Relação dos integrantes da Mesa Diretora, com informações sobre o partido ao qual pertencem, área de atuação, base eleitoral, telefone, fax, e-mail;\n- Relação de todos os deputados estaduais, com informações detalhadas sobre cada um deles, incluindo área de atuação, base eleitoral, partido, telefone, fax, sala, e-mail, data de aniversário, histórico pessoal, normas estaduais propostas, históricos das proposições elaboradas, relação das comissões que participa e prestação de contas mensal;\n- Relação de líderes de cada partido com representação na Alesp, com respectivos telefones e e-mails;\n- Informações sobre as áreas administrativas da Alesp, com os nomes de seus respectivos representantes, telefones e e-mails;\n- Divulgação de comunicados, boletins e campanhas;\n- Mural no Portal.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303722",
+                "email": "comsocial@al.sp.gov.br",
+                "phone": "(11) 3052-2275\n(11) 3886-6628\n(11) 3886-6630"
+            },
+            {
+                "title": "Fale Conosco – Assembleia Legislativa do Estado de São Paulo e/ ou Serviço de Informação ao Cidadão - SIC",
+                "description": "Canal de comunicação do cidadão, através de preenchimento de formulário destinado a esclarecimento de dúvidas, críticas e sugestões.\nSIC - Serviço instituido pela Lei n° 12.527, de 18/11/2011, e regulado pelo Decreto Estadual nº 58.052, de 16/05/2012, que possibilida a solicitação de acesso à informação existente nos órgãos públicos, salvo as que forem consideradas sigilosas, o que pode ocorrer em casos que sua divulgação ponha em risco a segurança do Estado ou em caso de informações que sejam de caráter pessoal.\nAs solicitações podem ocorrer através do Departamento de Documentação e Informação, tel.: 3886-6814, email: dpj-gestao@al.sp.gov.br , por carta através do endereço: Av. Pedro Ávares Cabral, 201, sala 3041- Ibirapuera - São Paulo -SP, cep: 04097-900, bem como da Divisão de Protocolo Geral, tel: 3886-6325, email: dpga-gestao@al.sp.gov.br, por carta através do endereço: Av. Pedro Álvares Cabral, 201, sala 1077- Ibirapuera - São Paulo - SP, cep 04097-900; e pelo E-SIC (http://www.sic.sp.gov.br/), que é um sistema via internet.\nPrazo de atendimento de uma solicitação de acesso à informação é de 20 dias corridos, prorrogáveis por mais 10 dias, quando justificável.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303726",
+                "email": "",
+                "phone": ""
+            },
+            {
+                "title": "Informações sobre os Trabalhos do Legislativo Paulista - Assembleia Legislativa do Estado de São Paulo",
+                "description": "Informações sobre o andamento dos trabalhos do Legislativo, debates e votações. Notícia em tempo real.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303728",
+                "email": "",
+                "phone": ""
+            },
+            {
+                "title": "Informações sobre as Reuniões do Condephaat",
+                "description": "Permite obter, via Internet, o calendário e pautas das runiões do ConDePHAAT, onde são discutidos assuntos relativos à preservação do patrimônio cultural do Estado de São Paulo.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303915",
+                "email": "conselhocondephaat@sp.gov.br",
+                "phone": ""
+            },
+            {
+                "title": "Informações Político-Institucionais da Região Metropolitana de São Paulo - Emplasa",
+                "description": "Permite acesso às informações sobre os municípios da Região Metropolitana de São Paulo, entre as quais: histórico, dados institucionais, cultura, planos, programas e projetos, consórcios intermunicipais, direitos humanos e cidadania, sociedades amigos de bairro, legislação municipal, etc.",
+                "url": "",
+                "email": "ouvidoria@emplasa.sp.gov.br",
+                "phone": "(11) 3293-5312"
+            },
+            {
+                "title": "Serviço de Informações ao Cidadão - SIC - Fundap",
+                "description": "Canal de atendimento entre os cidadãos e a Fundap, que visa a transparência e a democratização do acesso a documentos e dados relativos à Fundação.",
+                "url": "",
+                "email": "",
+                "phone": ""
+            }
+        ]
+    },
+    {
+        "title": "Informações sócioeconômicas",
+        "services": [
+            {
+                "title": "Informações Socioeconômicas e Demográficas do estado de São Paulo",
+                "description": "Informações socioeconômicas e demográficas sobre o Estado de São Paulo, suas regiões e municípios, organizadas em temas: Administração Pública, Condições de Vida, Economia, Educação, Eleições, Justiça e Segurança, População e Estatísticas Vitais, Saúde e Trabalho, entre outros.\nServiço de atendimento presencial, por e-mail, carta ou fax. Para informações pontuais e orientação de navegação no sítio, atendimento telefônico (SIC) e on line (chat na homepage do Seade).",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=681",
+                "email": "sicseade@seade.gov.br",
+                "phone": "(11) 3313-5777"
+            },
+            {
+                "title": "Acesso a Diagnósticos e Indicadores Socioeconômicos – Assembleia Legislativa do Estado de São Paulo",
+                "description": "Disponibilização de links de acesso a indicadores socioeconômicos, relevantes para a elaboração de políticas públicas, e outras informações. O sistema permite consultar, dentre outros, os seguintes indicadores e diagnósticos:\n1) Índice Paulista de Responsabilidade Social – IPRS, com informações sobre riqueza, longevidade, educação e riqueza dos Municípios Paulistas;\n2) Índice Paulista de Vulnerabilidade Social – IPVS, com informações sobre as populações do Estado em situação de risco e pobreza;\n3) Base de Informações Municipais do Estado – BIMSP, cujos dados possibilitam a identificação da situação socioeconômica e das potencialidades municipais, objetivando processos e projetos de desenvolvimento local sustentável.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303647",
+                "email": "instituto@al.sp.gov.br",
+                "phone": ""
+            },
+            {
+                "title": "Indicadores Metropolitanos da Baixada Santista-IMBS - Agência Metropolitana da Baixada Santista - AGEM-BS",
+                "description": "Acesso a indicadores em tabelas, mapas, gráficos e dados comparativos.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303783",
+                "email": "ouvidoria@agem.sp.gov.br",
+                "phone": "(13) 3202-7000\n(13) 3223-9070"
+            },
+            {
+                "title": "Sistema de Tabulação de Dados e Indicadores da Região Metropolitana de Campinas",
+                "description": "O sistema de tabulação de dados e indicadores permite consulta a uma grande gama de informações sobre a Região Metropolitana de Campinas, os municípios que a compõem e o total do Estado de São Paulo. Para montar a tabela com as variáveis e as coberturas territorial e temporal desejadas, basta seguir os passos indicados, que permitem consultas flexíveis e bastante detalhadas. As variáveis podem ser selecionadas segundo uma lista de assuntos, apresentados em ordem alfabética, ou por tema, cobrindo desde a caracterização do território e dados populacionais, até indicadores de condição de vida e de finanças públicas, passando por diversos recortes possíveis sobre a realidade social e econômica.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303784",
+                "email": "agemcamp@agemcamp.sp.gov.br",
+                "phone": "(19) 32136343\n(19) 32137712"
+            },
+            {
+                "title": "Informações para Investidores - Agência Metropolitana de Campinas",
+                "description": "Permite a potenciais investidores realizar consultas, por meio de Portal na Internet, sobre informações socioeconômicas e de políticas pró-investimentos, diferenciais competitivos, infra-estrutura logística, de pesquisa e qualificação de mão-de-obra, além de estrutura produtiva diversificada, oferecidas pelos municípios da Região Metropolitana de Campinas.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304012",
+                "email": "agemcamp@agemcamp.sp.gov.br",
+                "phone": "(19) 3213-6343\n(19) 3213-7712"
+            },
+            {
+                "title": "Observatório Metropolitano de Indicadores da Região Metropolitana de Campinas - OMI-RMC",
+                "description": "O Observatório Metropolitano de Indicadores é um sistema de monitoramento de dados que tem como finalidade auxiliar nas ações dos agentes que trabalham com projetos de desenvolvimento social, econômico e ambiental na análise e monitoramento do desenvolvimento regional e local. Dos seus resultados, são gerados mapas, gráficos e tabelas com indicadores sociais, demográficos e econômicos da RMC.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304119",
+                "email": "agemcamp@agemcamp.sp.gov.br",
+                "phone": "19 32115613"
+            },
+            {
+                "title": "Biblioteca Digital Seade",
+                "description": "O aplicativo permite consulta e download das obras mais antigas e raras pertencentes à biblioteca da Fundação Seade ''M. A. Teixeira de Freitas''. Grande parte da história do Estado de São Paulo está registrada nessas publicações, principalmente na forma de dados estatísticos referentes aos anos seguintes à proclamação da República até a década de 1990. O acervo da Biblioteca Digital tem sido ampliado, com a inclusão gradativa das obras da bilbioteca física, localizada na sede da instituição.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=304273",
+                "email": "sicseade@seade.gov.br",
+                "phone": "11-3313-5777"
+            }
+        ]
+    },
+    {
+        "title": "Planejamento regional e urbano",
+        "services": [
+            {
+                "title": "Consulta e Venda de Mapas do Sistema Cartográfico Metropolitano - Emplasa",
+                "description": "Acervo de mapas analógicos e digitais da Região Metropolitana de São Paulo - RMSP para consulta e venda. Mapeamentos básicos planialtimétricos; mapeamentos temáticos tais como: áreas de mata e demais formas de vegetação primitiva, expansão da área urbanizada, aptidão física ao assentamento urbano, uso e ocupação do solo e outros.",
+                "url": "",
+                "email": "ouvidoria@emplasa.sp.gov.br",
+                "phone": "(11) 3293-5333\n(11) 3293-5485"
+            },
+            {
+                "title": "Solicitação de Tombamento - Condephaat",
+                "description": "Atendimento a pessoas físicas ou jurídicas interessadas em solicitar tombamento de bens imóveis e/ou móveis, áreas naturais e registro de bens imateriais. As solicitações, devidamente fundamentadas, serão apreciadas pelo Conselho, que pode ou não transformá-las em processos de estudo de tombamento.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=1378",
+                "email": "pupph@sp.gov.br",
+                "phone": "(11) 3337-3363"
+            },
+            {
+                "title": "Autorização para Intervenções em Bens Tombados pelo Condephaat",
+                "description": "Instrução, análise e decisão, pelo Condephaat, sobre qualquer intervenção (reforma, restauro, etc.) realizada em bens tombados pelo órgão.\nO interessado em intervir no imóvel ou área natural tombados deve informar-se antes sobre a documentação necessária, no link Patrimônio Histórico/ Condephaat da página da Secretaria de Estado da Cultura na Internet - www.cultura.sp.gov.br e em seguida dar entrada no Núcleo de Protocolo e Expedição da Secretaria de Estado da Cultura.",
+                "url": "http://www.cidadao.sp.gov.br/link/?serv=303883",
+                "email": "pupph@sp.gov.br",
+                "phone": "(11) 3337-3363"
+            },
+            {
+                "title": "Autorização para Construir, Reformar e Demolir em Áreas Envoltórias de Bens Tombados pelo Condephaat",
+                "description": "Instrução, análise e decisão, pelo Condephaat, sobre qualquer intervenção (reforma, construção ou demolição) realizada em áreas envoltórias de bens tombados pelo órgão.\nA área envoltória é definida pela resolução de tombamento, e nela não se pode realizar intervenções sem autorização do Condephaat. A finalidade é proteger a visibilidade e o destaque do bem tombado.\nO interessado em construir, reformar ou demolir na área envoltória do imóvel ou área natural tombados deve informar-se antes sobre a documentação necessária no link Patrimônio Histórico/ Condephaat, na página da Secretaria de Estado da Cultura na Internet - www.cultura.sp.gov.br, em seguida dar entrada no pedido no Núcleo de Protocolo e Expedição da Secretaria de Estado da Cultura.",
+                "url": "",
+                "email": "pupph@sp.gov.br",
+                "phone": "(11) 3337-3363"
+            }
+        ]
+    }
+]

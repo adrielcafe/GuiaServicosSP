@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
 
@@ -17,11 +18,14 @@ import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
+import com.adrielcafe.guiaservicossp.model.Category;
+import com.adrielcafe.guiaservicossp.model.Service;
 import com.google.gson.reflect.TypeToken;
 
 public class MainActivity extends ListActivity {
-	private Map<String, ArrayList<Service>> db;
-
+	private List<Category> db;
+	private List<String> categoryTitles;
+	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -54,29 +58,31 @@ public class MainActivity extends ListActivity {
 		
 		String title = getListAdapter().getItem(position).toString();
 		Intent i = new Intent(this, CategoryActivity.class);
-		i.putExtra(Util.EXTRA_TITLE, title);
-		i.putExtra(Util.EXTRA_DB, db.get(title));
+		i.putExtra(Util.EXTRA_CATEGORY, db.get(position));
 		startActivity(i);
 	}
 
 	private void setup(){
-		ArrayList<Service> dbAdministracaoPublica = Util.GSON.fromJson(Util.loadJSON(this, "db/administracao-publica.json"), new TypeToken<ArrayList<Service>>() {}.getType());
+		db = Util.GSON.fromJson(Util.loadJSON(this, "db.json"), new TypeToken<List<Category>>() {}.getType());
+		categoryTitles = new ArrayList<String>();
 		
-		db = new TreeMap<String, ArrayList<Service>>();
-		db.put("Administração Pública 1", dbAdministracaoPublica);
-		db.put("Administração Pública 2", dbAdministracaoPublica);
-		db.put("Administração Pública 3", dbAdministracaoPublica);
-		db.put("Administração Pública 4", dbAdministracaoPublica);
-		db.put("Administração Pública 5", dbAdministracaoPublica);
+		Collections.sort(db, new Comparator<Category>() {
+	        @Override
+	        public int compare(Category  c1, Category  c2) {
+	        	return  Util.SLUG.slugify(c1.title).compareTo(Util.SLUG.slugify(c2.title));
+	        }
+	    });
 		
-		for(ArrayList<Service> services : db.values())
-			Collections.sort(services, new Comparator<Service>() {
+		for(Category category : db){
+			categoryTitles.add(category.title);
+			Collections.sort(category.services, new Comparator<Service>() {
 		        @Override
 		        public int compare(Service  s1, Service  s2) {
-		        	return  s1.title.compareTo(s2.title);
+		        	return  Util.SLUG.slugify(s1.title).compareTo(Util.SLUG.slugify(s2.title));
 		        }
 		    });
+		}
 		
-		setListAdapter(new ListAdapter(this, new ArrayList<String>(db.keySet())));
+		setListAdapter(new ListAdapter(this, new ArrayList<String>(categoryTitles)));
 	}
 }
