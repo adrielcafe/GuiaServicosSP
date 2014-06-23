@@ -5,6 +5,6 @@
 
 Este aplicativo foi desenvolvido para suprir a falta de um serviço como o [Cidadão.SP](http://www.cidadao.sp.gov.br) nos aparelhos celulares.
 
-![](http://i.imgur.com/IKBZRXb.png)
-![](http://i.imgur.com/2o6gQ9Q.png)
-![](http://i.imgur.com/AipGHLu.png)
+![](http://i.imgur.com/WOIepk2.png)
+![](http://i.imgur.com/PkOVXqD.png)
+![](http://i.imgur.com/JDCUdeb.png)
